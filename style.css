@@ -9,5 +9,15 @@ body {
 #Content {
     height: 300px;
     background-color: #00ff21;
-
+    border: 1px solid #999;
+    font-size: 12pt;
+}
+#Content p {
+    margin: 20px;
+}
+#Footer {
+    height: 200px;
+    background: url(https://i.vgy.me/BlygbK.png) repeat-x;
+    text-align: center;
+    font-size: 14pt;
 }
