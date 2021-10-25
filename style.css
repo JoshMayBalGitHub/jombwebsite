@@ -28,4 +28,6 @@ body {
 #ABS {
     height: 400px;
     font-size: 12pt;
+    font: caption;
+    border: 1px solid #999;
 }
