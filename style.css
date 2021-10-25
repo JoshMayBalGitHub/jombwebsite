@@ -32,8 +32,7 @@ body {
     font: caption;
     border: 1px solid #999;
 }
-#BB {
 button {width:6em}
 button:hover span {display:none;}
+button:before {width: 100px; content: ""}
 button:hover:before {content:"Boop!";}
-]
