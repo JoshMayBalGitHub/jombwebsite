@@ -15,7 +15,7 @@ Versions:
 
 0.02B Beta Version!
 
-Note:
+0.02B Note:
 
 0.02 is the current version and is still in development
 
