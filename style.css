@@ -32,6 +32,10 @@ body {
     font: caption;
     border: 1px solid #999;
 }
+#BB {
+    height: 200px;
+    background-color: #1A3BD0;
+}
 button .Boop {display: none;}
 button:hover .Beep {display: none;}
 button:hover .Boop {display: inline;}
