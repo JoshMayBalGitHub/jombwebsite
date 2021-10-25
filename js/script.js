@@ -14,3 +14,7 @@ function CD() {
     }
     document.getElementById("CDB").innerHTML = NV;
 }
+function AG() {
+    var NT = "LOL"
+    document.getElementById("ABS").innerHTML = NT;
+}
