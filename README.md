@@ -3,7 +3,7 @@ the jomb website
 
 Versions:
 
-0.01B Beta Version 
+0.01B Beta Version! 
 
 0.01B Note:
 
@@ -18,6 +18,9 @@ Versions:
 0.02B Note:
 
 0.02 is the current version and is still in development
+
+/0.02B
+
 
 
 Website: https://joshmaybaljomb.gq/
