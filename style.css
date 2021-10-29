@@ -1,41 +1,63 @@
+/* This whole entire thing from header
+to BB are customized sections of informations. */
 
 body {
     margin: 0;
-    padding: 0; 
+    padding: 0;
 }
+
 #Header {
     height: 200px;
     background: url(https://i.vgy.me/rGAPNn.png) repeat-x;
 }
+
 #Content {
     height: 300px;
     background-color: #FF0000;
     border: 1px solid #999;
     font-size: 12pt;
 }
+
 #Content p {
     margin: 20px;
 }
+
 #Footer {
     height: 200px;
     background: url(https://i.vgy.me/BlygbK.png) repeat-x;
     text-align: center;
     font-size: 14pt;
 }
+
 #HM {
     height: 300px;
     background-color: #FFFFFF;
 }
+
 #ABS {
     height: 400px;
     font-size: 12pt;
     font: caption;
     border: 1px solid #999;
 }
+
 #BB {
     height: 200px;
     background-color: #1A3BD0;
 }
-button .Boop {display: none;}
-button:hover .Beep {display: none;}
-button:hover .Boop {display: inline;}
+
+
+/*The 1st button function makes the hover thing work.
+ */
+
+button .Boop {
+    display: none;
+}
+
+button:hover .Beep {
+    display: none;
+}
+
+button:hover .Boop {
+    display: inline;
+}
