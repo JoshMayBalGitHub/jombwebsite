@@ -14,6 +14,7 @@ function CD() {
     }
     document.getElementById("CDB").innerHTML = NV;
 }
+// Oh btw the function AG is not used
 function AG() {
     var NT = "LOL"
     document.getElementById("ABS").innerHTML = NT;
