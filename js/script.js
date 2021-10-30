@@ -20,6 +20,6 @@ function AG() {
     document.getElementById("ABS").innerHTML = NT;
 }
 
-$(function NPJ1() {
-    $("NP1").load("gallery.html");
-});
+function NP1J() {
+    window.location.href = "gallery.html";
+}
