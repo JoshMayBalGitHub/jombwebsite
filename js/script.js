@@ -19,3 +19,7 @@ function AG() {
     var NT = "LOL"
     document.getElementById("ABS").innerHTML = NT;
 }
+
+$(function NPJ1() {
+    $("NP1").load("gallery.html");
+});
