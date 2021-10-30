@@ -46,6 +46,13 @@ body {
     background-color: #1A3BD0;
 }
 
+#NP1 {
+    font: caption;
+    font-size: medium;
+    height: 300px;
+    border: 1px solid orange
+}
+
 
 /*The 1st button function makes the hover thing work.
  */
