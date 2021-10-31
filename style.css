@@ -62,7 +62,16 @@ button .NP1B {
     cursor: pointer;
 }
 
+button .NP1B::after {
+    content: '>>'
+}
+
 button:hover .NP1B {
+    opacity: 1;
+    padding-right: 26px;
+}
+
+button:hover .NP1B::after {
     opacity: 1;
 }
 
@@ -85,7 +94,6 @@ button .B::after {
     content: '>>';
     position: absolute;
     opacity: 0;
-    top: 0;
     right: -20px;
     transition: 0.5s;
 }
