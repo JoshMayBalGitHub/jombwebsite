@@ -67,7 +67,7 @@ button .NP1B::after {
     position: absolute;
     opacity: 0;
     transition: 0.5s;
-    right: 2px;
+    right: -2px;
 }
 
 button:hover .NP1B {
