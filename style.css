@@ -122,6 +122,7 @@ button:hover .B::after {
 button .BPP {
     padding: 15px 30px;
     font-size: x-large;
+    display: inline-block;
 }
 
 
