@@ -56,8 +56,9 @@ body {
 button .NP1B {
     opacity: 0.5;
     font-size: x-large;
-    padding-bottom: 30px;
+    padding-bottom: 50px;
     padding-right: 30px;
+    text-align: center;
 }
 
 button:hover .NP1B {
