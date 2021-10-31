@@ -9,6 +9,7 @@ body {
 #Header {
     height: 200px;
     background: url(https://i.vgy.me/rGAPNn.png) repeat-x;
+    background-size: 200px;
 }
 
 #Content {
@@ -27,6 +28,7 @@ body {
     background: url(https://i.vgy.me/BlygbK.png) repeat-x;
     text-align: center;
     font-size: 14pt;
+    background-size: 200px;
 }
 
 #HM {
