@@ -74,7 +74,7 @@ button .NP1B::after {
 
 button:hover .NP1B {
     opacity: 1;
-    padding-right: 27px;
+    padding-right: 30px;
 }
 
 button:hover .NP1B::after {
