@@ -50,7 +50,6 @@ body {
     font: caption;
     font-size: 16px;
     height: auto;
-    border: 1px solid orange
 }
 
 button .NP1B {
@@ -61,7 +60,6 @@ button .NP1B {
     padding-right: 32px;
     padding-left: 32px;
     text-align: center;
-    margin: 4px 2px;
 }
 
 button:hover .NP1B {
