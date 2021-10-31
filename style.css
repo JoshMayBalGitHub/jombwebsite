@@ -54,7 +54,15 @@ body {
 }
 
 button .NP1B {
+    opacity: 0.5;
     font-size: x-large;
+    padding-bottom: 30px;
+    padding-right: 30px;
+}
+
+button:hover .NP1B {
+    background-color: black;
+    opacity: 1;
 }
 
 
