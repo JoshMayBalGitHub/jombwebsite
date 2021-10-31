@@ -55,6 +55,7 @@ body {
 button .NP1B {
     opacity: 0.5;
     padding: 15px 32px;
+    font-size: x-large;
     text-align: center;
     display: inline-block;
     cursor: pointer;
