@@ -23,3 +23,7 @@ function AG() {
 function NP1J() {
     window.location.href = "gallery.html";
 }
+
+function BPJ() {
+    window.location.href = "index.html"
+}
