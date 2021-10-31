@@ -52,6 +52,10 @@ body {
     height: auto;
 }
 
+#BP {
+    background-color: darkred;
+}
+
 button .NP1B {
     transition-duration: 0.4s;
     opacity: 0.5;
