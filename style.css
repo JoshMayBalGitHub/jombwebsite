@@ -53,6 +53,7 @@ body {
 }
 
 button .NP1B {
+    transition-duration: 0.4s;
     opacity: 0.5;
     padding: 15px 32px;
     font-size: x-large;
