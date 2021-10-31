@@ -55,7 +55,7 @@ body {
 button .NP1B {
     transition-duration: 0.4s;
     opacity: 0.5;
-    padding: 15px 32px;
+    padding: 15px 37px;
     font-size: x-large;
     text-align: center;
     display: inline-block;
@@ -74,7 +74,7 @@ button .NP1B::after {
 
 button:hover .NP1B {
     opacity: 1;
-    padding-right: 30px;
+    padding-right: 32px;
 }
 
 button:hover .NP1B::after {
