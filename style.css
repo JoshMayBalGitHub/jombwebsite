@@ -63,7 +63,10 @@ button .NP1B {
 }
 
 button .NP1B::after {
-    content: '>>'
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    right: -20px;
 }
 
 button:hover .NP1B {
