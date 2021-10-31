@@ -63,7 +63,7 @@ button .NP1B {
 }
 
 button .NP1B::after {
-    content: '\00bb';
+    content: '>>';
     position: absolute;
     opacity: 0;
     right: -20px;
