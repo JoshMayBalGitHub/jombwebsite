@@ -60,6 +60,7 @@ button .NP1B {
     text-align: center;
     display: inline-block;
     cursor: pointer;
+    position: relative;
 }
 
 button .NP1B::after {
@@ -67,7 +68,8 @@ button .NP1B::after {
     position: absolute;
     opacity: 0;
     transition: 0.5s;
-    right: -2px;
+    top: 0;
+    right: -20px;
 }
 
 button:hover .NP1B {
@@ -77,6 +79,7 @@ button:hover .NP1B {
 
 button:hover .NP1B::after {
     opacity: 1;
+    right: 0;
 }
 
 button .B {
