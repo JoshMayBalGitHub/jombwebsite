@@ -54,6 +54,7 @@ body {
 }
 
 button .NP1B {
+    margin-top: 15px;
     opacity: 0.5;
     font-size: x-large;
     padding-bottom: 60px;
