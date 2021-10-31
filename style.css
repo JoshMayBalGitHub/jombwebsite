@@ -62,6 +62,14 @@ button .NP1B {
     cursor: pointer;
 }
 
+button .B::after {
+    content: '>>';
+}
+
+button:hover .NP1B {
+    opacity: 1;
+}
+
 button .B {
     background-color: #4CAF50;
     border: none;
@@ -73,10 +81,6 @@ button .B {
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
-}
-
-button:hover .NP1B {
-    opacity: 1;
 }
 
 
