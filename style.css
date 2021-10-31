@@ -68,7 +68,7 @@ button .NP1B::after {
     position: absolute;
     opacity: 0;
     transition: 0.5s;
-    top: 0;
+    top: -2;
     right: -2px;
 }
 
