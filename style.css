@@ -48,7 +48,7 @@ body {
 
 #NP1 {
     font: caption;
-    font-size: larger;
+    font-size: 20px;
     height: 300px;
     border: 1px solid orange
 }
