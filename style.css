@@ -119,6 +119,10 @@ button:hover .B::after {
     right: 0;
 }
 
+button .BPP {
+    padding: 15px 30px;
+}
+
 
 /*The 1st button function makes the hover thing work.
  */
