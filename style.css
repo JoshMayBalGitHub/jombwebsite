@@ -53,6 +53,10 @@ body {
     border: 1px solid orange
 }
 
+button .NP1B {
+    font-size: large;
+}
+
 
 /*The 1st button function makes the hover thing work.
  */
