@@ -53,12 +53,11 @@ body {
 }
 
 button .NP1B {
-    box-sizing: border-box;
     opacity: 0.5;
-    padding-bottom: 15px;
-    padding-right: 32px;
-    padding-left: 32px;
+    padding: 15px 32px;
     text-align: center;
+    display: inline-block;
+    cursor: pointer;
 }
 
 button .B {
