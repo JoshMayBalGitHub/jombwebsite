@@ -24,6 +24,10 @@ function NP1J() {
     window.location.href = "gallery.html";
 }
 
+function NP2J() {
+    window.location.href = "axie.html";
+}
+
 function BPJ() {
-    window.location.href = "index.html"
+    window.location.href = "index.html";
 }
