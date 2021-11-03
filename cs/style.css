@@ -58,6 +58,14 @@ body {
     background-color: darkred;
 }
 
+#MA2 {
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+/*Seperated divs and buttons for readability*/
+
 button .NP1B {
     transition-duration: 0.4s;
     opacity: 0.5;
@@ -87,6 +95,22 @@ button:hover .NP1B::after {
     opacity: 1;
     right: 0;
 }
+
+
+/*Seperate different divisons for readability*/
+
+button .NP2B {
+    padding: 15px 37px;
+    opacity: 0.5;
+}
+
+button:hover .NP2B {
+    opacity: 1;
+    cursor: pointer;
+}
+
+
+/*Seperate different divisons for readability*/
 
 button .B {
     background-color: #4CAF50;
@@ -119,6 +143,9 @@ button:hover .B::after {
     opacity: 1;
     right: 0;
 }
+
+
+/*Seperate different divisons for readability*/
 
 button .PB {
     padding: 15px 30px;
