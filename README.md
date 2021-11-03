@@ -32,7 +32,9 @@ Home Page
 
 Button and Images Page
 
-Axie Infinity Page (Not Released Yet)
+Axie Infinity Page (Renamed)
+
+The Gallery Page
 
 
 
