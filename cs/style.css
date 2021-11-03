@@ -61,6 +61,8 @@ body {
 #MA2 {
     font-size: larger;
     font-family: 'Times New Roman', Times, serif;
+    height: auto;
+    width: fit-content;
 }
 
 
@@ -101,6 +103,7 @@ button:hover .NP1B::after {
 
 button .NP2B {
     padding: 15px 37px;
+    font-size: larger;
     opacity: 0.5;
 }
 
