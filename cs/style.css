@@ -61,8 +61,13 @@ body {
 #MA2 {
     font-size: larger;
     font-family: 'Times New Roman', Times, serif;
-    width: auto;
-    padding: 15px;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    max-width: 100vw;
+    width: 100vw;
 }
 
 
