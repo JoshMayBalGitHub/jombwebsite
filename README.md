@@ -24,7 +24,7 @@ https://www.youtube.com/channel/UCU-uL9CJBIHUD7DcfwQKvRQ
 
 https://joshmayetballoon.itch.io/
 
-https://discord.gg/dWU6mJyC8q
+https://discord.gg/uNnaDq6tKs
 
 Current Pages:
 
