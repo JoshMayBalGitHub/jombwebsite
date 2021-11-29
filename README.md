@@ -4,23 +4,25 @@ the jomb website
 /////////////////////////////////////////
 
 FAQ:
-So, what is this supposed to be?
+You - So, what is this supposed to be?
 
-Well this is a website, for me!
+Me - Well this is a website, for me!
 
-This looks terrible.
+You and Me - This looks terrible.
 
-You think?!?!? Well it is, after all it is in Beta.
+Me - You think?!?!? Well it is, after all it is in Beta.
 
-Will you improve this website?
+You - Will you improve this website?
 
-Maybe.. If i have time.
+Me - Maybe.. If i have time.
 
-So what's stopping you from working on this website?
+You - So what's stopping you from working on this website?
 
-Well school's the first part and laziness.
+Me - Well school's the first part and laziness.
 
-Links?
+You - Links?
+
+Me - Here!
 
 https://www.youtube.com/channel/UCU-uL9CJBIHUD7DcfwQKvRQ
 
