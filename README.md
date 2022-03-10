@@ -3,9 +3,7 @@ the jomb website
 
 Note: the custom .zip file you see is the source code for it, ignore the github default because i renamed the tags and they arent with the release date of the release.
 
-/////////////////////////////////////////
-
-FAQ:
+## FAQ:
 
 You - So, what is this supposed to be?
 
@@ -44,4 +42,5 @@ Note: As time progresses, the version releases's name change.
 0.02F
 
 
-Website: https://joshmaybaljomb.gq/
+
+### Website: https://joshmaybaljomb.gq/
