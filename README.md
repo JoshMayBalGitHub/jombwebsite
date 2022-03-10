@@ -31,9 +31,9 @@ https://joshmayetballoon.itch.io/
 
 https://discord.gg/uNnaDq6tKs
 
-Note: As time progresses, the version releases's name change.
-
 ## Versions: (Currently)
+
+Note: As time progresses, the version releases's name change.
 
 0.01
 
