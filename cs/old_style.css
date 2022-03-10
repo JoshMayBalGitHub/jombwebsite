@@ -71,7 +71,7 @@ body {
 
 /*Seperated divs and buttons for readability*/
 
-button .NP {
+button .NP1B {
     transition-duration: 0.4s;
     opacity: 0.5;
     padding: 15px 37px;
@@ -108,6 +108,11 @@ button .NP2B {
     padding: 15px 37px;
     font-size: larger;
     opacity: 0.5;
+    font-size: x-large;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
 }
 
 button:hover .NP2B {

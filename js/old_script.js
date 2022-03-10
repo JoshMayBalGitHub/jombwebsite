@@ -28,7 +28,11 @@ function NP2J() {
     window.location.href = "axie.html";
 }
 
-function BPJ() {
+function NP3J() {
     window.location.href = "index.html";
+}
+
+function BPJ() {
+    window.location.href = "old_index.html";
 }
 
