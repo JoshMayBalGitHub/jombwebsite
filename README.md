@@ -6,6 +6,7 @@ Note: the custom .zip file you see is the source code for it, ignore the github 
 /////////////////////////////////////////
 
 FAQ:
+
 You - So, what is this supposed to be?
 
 Me - Well this is a website, for me!
