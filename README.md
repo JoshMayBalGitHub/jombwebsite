@@ -41,6 +41,8 @@ Note: As time progresses, the version releases's name change.
 
 0.02F
 
+0.03 (In Development)
+
 
 
 ### Website: https://joshmaybaljomb.gq/
