@@ -1,9 +1,3 @@
-function RM() {
-    document.getElementById("HM").style.display = "block"
-}
-// The function "RM" makes the thing in the html file
-// actually function and reveal the message and 
-// also reveal a manual-button timer
 
 // the function "CD" makes the manual-button timer work. 
 function CD() {
@@ -20,14 +14,30 @@ function AG() {
     document.getElementById("ABS").innerHTML = NT;
 }
 
-function NP1J() {
+function J1() {
     window.location.href = "gallery.html";
 }
 
-function NP2J() {
+function J2() {
     window.location.href = "axie.html";
 }
 
 function BPJ() {
     window.location.href = "index.html";
+}
+// This function is used to make text not hide when the mouse is over it.
+function W() {
+    document.getElementById("Q").style.visibility = "visible";
+}
+// This function is used to make text hide when the mouse is not over it.
+function W2() {
+    document.getElementById("Q").style.visibility = "hidden";
+}
+// This function is used to make text not hide when the mouse is over it.
+function W3() {
+    document.getElementById("E").style.display = "block";
+}
+// This function is used to make text hide when the mouse is not over it.
+function W4() {
+    document.getElementById("E").style.display = "none";
 }
