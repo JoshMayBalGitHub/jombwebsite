@@ -45,4 +45,7 @@ Note: As time progresses, the version releases's name change.
 
 
 
+
 ### Website: https://joshmaybaljomb.gq/
+
+For more details: https://github.com/JoshMayBalGitHub/jombwebsite/wiki/The-Jomb-Website-WIki!
