@@ -1,4 +1,9 @@
 /* Revamped CSS */
+
+body {
+    background: url(https://i.vgy.me/rGAPNn.png) 
+}
+
 #Q {
    visibility: hidden;
 }
