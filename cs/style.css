@@ -42,6 +42,7 @@ button:hover .B::after {
 
 /*Seperation for cleanliness */
 
+/*
 .C {
     transition-duration: 0.4s;
     opacity: 0.5;
@@ -70,4 +71,18 @@ button:hover .C {
 button:hover .C::after {
     opacity: 1;
     right: 0;
+}
+*/
+
+/*Seperation for cleanliness */
+
+#K{
+    height: 400px;
+    font-size: 12pt;
+    font: caption;
+    font-size: larger;
+}
+
+.K1 {
+    visibility: hidden;
 }

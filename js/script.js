@@ -15,12 +15,16 @@ function AG() {
 }
 
 function J1() {
-    window.location.href = "gallery.html";
+    window.location.href = "old_index.html";
 }
 
-function J2() {
+// Seperation
+
+/*function J2() {
     window.location.href = "axie.html";
-}
+}*/
+
+// Seperation
 
 function BPJ() {
     window.location.href = "index.html";
@@ -33,11 +37,23 @@ function W() {
 function W2() {
     document.getElementById("Q").style.visibility = "hidden";
 }
+
+// Seperation
+
 // This function is used to make text not hide when the mouse is over it.
-function W3() {
+/*function W3() {
     document.getElementById("E").style.display = "block";
 }
 // This function is used to make text hide when the mouse is not over it.
 function W4() {
     document.getElementById("E").style.display = "none";
+} */
+
+// Seperation
+
+// This function is used to make text not hide when the user clicks on it.
+function P() {
+    const K = document.getElementById("K");
+    K.classList.toggle("K1");
 }
+
