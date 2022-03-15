@@ -15,7 +15,7 @@ function AG() {
 }
 
 function J1() {
-    window.location.href = "old_index.html";
+    window.location.href = "experiment.html";
 }
 
 // Seperation
