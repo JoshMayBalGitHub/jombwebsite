@@ -21,3 +21,6 @@ function J1() {
 function RM() {
     document.getElementById("HM").style.display = "block"
 }
+function BPJ() {
+    window.location.href = "index.html";
+}
