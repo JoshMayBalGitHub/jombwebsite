@@ -5,7 +5,7 @@ Note: the custom .zip file you see is the source code for it, ignore the github 
 
 ## FAQ:
 
-FAQ has been moved to:
+FAQ has been moved to: https://github.com/JoshMayBalGitHub/jombwebsite/wiki/Frequently-Asked-Questions:
 
 
 ## Versions: (Currently)
