@@ -81,13 +81,32 @@ button:hover .C::after {
 
 /*Seperation for cleanliness */
 
-#K{
-    height: 400px;
-    font-size: 12pt;
-    font: caption;
-    font-size: larger;
+.BS {
+    transition-duration: 0.4s;
+    opacity: 0.5;
+    padding: 15px 37px;
+    font-size: x-large;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
 }
 
-.K1 {
-    visibility: hidden;
+.BS::after {
+    content: " >>";
+    position: absolute;
+    opacity: 0;
+    transition: 0.5s;
+    top: -5;
+    right: -6px;
+}
+
+button:hover .BS {
+    opacity: 1;
+    padding-right: 32px;
+}
+
+button:hover .BS::after {
+    opacity: 1;
+    right: 0;
 }
