@@ -1,0 +1,31 @@
+/*need to add something here to put in github 
+as there's no style for now*/
+.BS {
+    transition-duration: 0.4s;
+    opacity: 0.5;
+    padding: 15px 37px;
+    font-size: x-large;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+}
+
+.BS::after {
+    content: " >>";
+    position: absolute;
+    opacity: 0;
+    transition: 0.5s;
+    top: -5;
+    right: -6px;
+}
+
+button:hover .BS {
+    opacity: 1;
+    padding-right: 32px;
+}
+
+button:hover .BS::after {
+    opacity: 1;
+    right: 0;
+}
