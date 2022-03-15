@@ -81,6 +81,19 @@ button:hover .C::after {
 
 /*Seperation for cleanliness */
 
+#K{
+    height: 400px;
+    font-size: 12pt;
+    font: caption;
+    font-size: larger;
+}
+
+.K1 {
+    visibility: hidden;
+}
+
+/*Seperation for cleanliness */
+
 .BS {
     transition-duration: 0.4s;
     opacity: 0.5;
@@ -110,3 +123,5 @@ button:hover .BS::after {
     opacity: 1;
     right: 0;
 }
+
+/*Seperation for cleanliness */
