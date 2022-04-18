@@ -1,8 +1,6 @@
 # Jomb Website
 the jomb website
 
-Note: the custom .zip file you see is the source code for it, ignore the github default because i renamed the tags and they arent with the release date of the release.
-
 ## FAQ:
 
 FAQ has been moved to: https://gitlab.com/JoshMayBalGitHub/jombwebsite/-/wikis/Frequently-Asked-Questions
