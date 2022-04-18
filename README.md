@@ -5,7 +5,7 @@ Note: the custom .zip file you see is the source code for it, ignore the github 
 
 ## FAQ:
 
-FAQ has been moved to: https://github.com/JoshMayBalGitHub/jombwebsite/wiki/Frequently-Asked-Questions:
+FAQ has been moved to: https://gitlab.com/JoshMayBalGitHub/jombwebsite/-/wikis/Frequently-Asked-Questions
 
 
 ## Versions: (Currently)
@@ -25,6 +25,6 @@ Note: As time progresses, the version releases's name change.
 
 
 
-### Website: https://joshmaybaljomb.gq/
+### Website: https://joshmaybaljomb.ml/
 
-For more details: https://github.com/JoshMayBalGitHub/jombwebsite/wiki!
+For more details: https://gitlab.com/JoshMayBalGitHub/jombwebsite/-/wikis/Home
