@@ -1,6 +1,8 @@
 # Jomb Website
 the jomb website
 
+Note: when downloading releases, choose the .zip version.
+
 ## FAQ:
 
 FAQ has been moved to: https://gitlab.com/JoshMayBalGitHub/jombwebsite/-/wikis/Frequently-Asked-Questions
