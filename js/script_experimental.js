@@ -24,3 +24,9 @@ function RM() {
 function BPJ() {
     window.location.href = "index.html";
 }
+function math() {
+    document.getElementById("mathans").style.display = "block"
+}
+function math2() {
+    document.getElementById("mathans").style.display = "none"
+}
