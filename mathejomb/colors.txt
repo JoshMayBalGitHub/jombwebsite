@@ -1,0 +1,5 @@
+Beige and Cornflower Blue?
+A graph in the plane represents a
+function provided that no vertical line
+intersects the graph at more than one
+point.
