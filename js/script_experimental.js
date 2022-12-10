@@ -24,6 +24,12 @@ function RM() {
 function BPJ() {
     window.location.href = "index.html";
 }
+
+// test submodule brilliance
+function TEST() {
+    window.location.href = "mathejomb/index.html";
+}
+
 function math() {
     document.getElementById("mathans").style.display = "block"
 }
