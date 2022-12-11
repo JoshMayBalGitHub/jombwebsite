@@ -1,5 +1,29 @@
 Beige and Cornflower Blue?
-A graph in the plane represents a
-function provided that no vertical line
-intersects the graph at more than one
-point.
+Domain and Range
+
+One-to-one correspondence
+It refers to the relationship 
+between
+domain and range in which 
+one element
+of the domain is mapped to 
+one element
+of the range.
+
+Many-to-one correspondence
+It refers to the relationship 
+between
+domain and range in which two 
+or more
+elements of the domain are 
+mapped to
+the same element of the range.
+
+One-to-many correspondence
+It refers to the relationship 
+between
+domain and range in which one 
+element
+of the domain is mapped to two 
+or more
+element of the range
