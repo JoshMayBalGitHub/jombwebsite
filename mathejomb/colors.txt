@@ -1,29 +1,9 @@
 Beige and Cornflower Blue?
-Domain and Range
-
-One-to-one correspondence
-It refers to the relationship 
-between
-domain and range in which 
-one element
-of the domain is mapped to 
-one element
-of the range.
-
-Many-to-one correspondence
-It refers to the relationship 
-between
-domain and range in which two 
-or more
-elements of the domain are 
-mapped to
-the same element of the range.
-
-One-to-many correspondence
-It refers to the relationship 
-between
-domain and range in which one 
-element
-of the domain is mapped to two 
-or more
-element of the range
+If m ≠ 0, then the degree
+of the function is 1.
+If m = 0 and b ≠ 0, then
+the degree of the
+function is 0.
+❑ If m = 0 and b = 0, then
+the degree of the
+function is not defined.
