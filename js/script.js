@@ -1,4 +1,3 @@
-
 // the function "CD" makes the manual-button timer work. 
 function CD() {
     var CV = document.getElementById("CDB").innerHTML
@@ -18,7 +17,13 @@ function J1() {
     window.location.href = "experiment.html";
 }
 
-// Seperation
+// christmas seperation
+
+function christmasbutton() {
+    window.location.href = "christmas.html";
+}
+
+// christmas seperation
 
 /*function J2() {
     window.location.href = "axie.html";
