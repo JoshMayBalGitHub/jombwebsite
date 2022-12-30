@@ -1,6 +1,6 @@
 /* Revamped CSS */
 
-body {
+#main, #axie {
     background: url(https://i.vgy.me/Zziv6U.png) 
 }
 
@@ -124,7 +124,7 @@ button:hover .BS::after {
     right: 0;
 }
 
-/*Seperation for cleanliness */
+/*Seperation for cleanliness, christmas section */
 
 #christmas {
     background: url(https://i.vgy.me/qwX4Jz.png);
@@ -134,4 +134,4 @@ button:hover .BS::after {
     color: white;
 }
 
-/*Seperation for cleanliness */
+/*Seperation for cleanliness, christmas section */
