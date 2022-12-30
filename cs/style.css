@@ -1,10 +1,10 @@
 /* Revamped CSS */
 
-#main, #axie {
+#main {
     background: url(https://i.vgy.me/Zziv6U.png) 
 }
 
-#Q {
+#hiddentext1 {
    visibility: hidden;
 }
 
@@ -124,14 +124,14 @@ button:hover .BS::after {
     right: 0;
 }
 
-/*Seperation for cleanliness, christmas section */
+/*EVENT SECTION*/
 
 #christmas {
     background: url(https://i.vgy.me/qwX4Jz.png);
-}
-
-#christmas {
     color: white;
 }
 
-/*Seperation for cleanliness, christmas section */
+#school {
+    background: url(https://i.vgy.me/LIURPr.png);
+    color: black;
+}
