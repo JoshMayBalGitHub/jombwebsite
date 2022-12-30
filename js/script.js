@@ -36,11 +36,11 @@ function BPJ() {
 }
 // This function is used to make text not hide when the mouse is over it.
 function W() {
-    document.getElementById("Q").style.visibility = "visible";
+    document.getElementById("hiddentext1").style.visibility = "visible";
 }
 // This function is used to make text hide when the mouse is not over it.
 function W2() {
-    document.getElementById("Q").style.visibility = "hidden";
+    document.getElementById("hiddentext1").style.visibility = "hidden";
 }
 
 // Seperation
