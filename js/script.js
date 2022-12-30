@@ -17,13 +17,13 @@ function J1() {
     window.location.href = "experiment.html";
 }
 
-// christmas seperation
+// event seperation
 
-function christmasbutton() {
+function eventbutton() {
     window.location.href = "christmas.html";
 }
 
-// christmas seperation
+// event seperation
 
 /*function J2() {
     window.location.href = "axie.html";
