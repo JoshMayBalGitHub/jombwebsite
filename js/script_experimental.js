@@ -25,9 +25,14 @@ function BPJ() {
     window.location.href = "index.html";
 }
 
-// test submodule brilliance
+// i have to keep up the local copy with the other 
+// repo instead of submodule, brilliant suffering.
 function TEST() {
     window.location.href = "mathejomb/index.html";
+}
+
+function TEST2() {
+    window.location.href = "https://joshmaybaljomb.tk/";
 }
 
 function math() {
