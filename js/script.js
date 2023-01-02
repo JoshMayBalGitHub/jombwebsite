@@ -20,7 +20,7 @@ function J1() {
 // event seperation
 
 function eventbutton() {
-    window.location.href = "christmas.html";
+    window.location.href = "school.html";
 }
 
 // event seperation
