@@ -7,55 +7,33 @@ function CD() {
     }
     document.getElementById("CDB").innerHTML = NV;
 }
-// Oh btw the function AG is not used
-function AG() {
-    var NT = "LOL"
-    document.getElementById("ABS").innerHTML = NT;
-}
-
-function J1() {
+/////////////
+/*Experiment Page Button Code*/
+/////////////
+// Go to experiment.html
+function experimentbutton() {
     window.location.href = "experiment.html";
+}
+// This function is used to make text not hide when the mouse is over it.
+function Unhide1() {
+    document.getElementById("hiddentext1").style.visibility = "visible";
+}
+// This function is used to make text hide when the mouse is not over it.
+function Hide1() {
+    document.getElementById("hiddentext1").style.visibility = "hidden";
 }
 // event seperation
 function eventbutton() {
     window.location.href = "school.html";
 }
-// event seperation
-
-/*function J2() {
-    window.location.href = "axie.html";
-}*/
-
-// Seperation
 
 function BPJ() {
     window.location.href = "index.html";
 }
-// This function is used to make text not hide when the mouse is over it.
-function W() {
-    document.getElementById("hiddentext1").style.visibility = "visible";
-}
-// This function is used to make text hide when the mouse is not over it.
-function W2() {
-    document.getElementById("hiddentext1").style.visibility = "hidden";
-}
-
-// Seperation
-
-// This function is used to make text not hide when the mouse is over it.
-/*function W3() {
-    document.getElementById("E").style.display = "block";
-}
-// This function is used to make text hide when the mouse is not over it.
-function W4() {
-    document.getElementById("E").style.display = "none";
-} */
-
-// Seperation
-
+// Used in FAQ hidden text
 // This function is used to make text not hide when the user clicks on it.
-function P() {
-    const K = document.getElementById("K");
-    K.classList.toggle("K1");
+function Unhide2() {
+    const K = document.getElementById("hiddentext2");
+    K.classList.toggle("hiddentext2-1");
 }
 
