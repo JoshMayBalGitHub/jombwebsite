@@ -1,26 +1,16 @@
 <!DOCTYPE html>
 <html>
-<!-- In the head tag there are 3 main elements:
-     1. Title
-     2. JS Script References
-     3. CSS Reference
-    -->
-
 <head>
     <title>Jomb - Home Page</title>
     <script src="js/jquery-3.6.0.js"></script>
     <script src="js/script.js"></script>
     <link rel="stylesheet" href="cs/style.css" />
     <link rel="icon" type="image/x-icon" href="img/jomb-favicon.ico">
-    <!--<script></script>
-    I dont need the script html tag since i am using a different file for javascript-->
-
-
 </head>
 
 <body id="main">
     <!--Picker-->
-    <button type="button" onclick=J1() onmouseenter="W()" onmouseleave="W2()">
+    <button type="button" onclick=experimentbutton() onmouseenter="Unhide1()" onmouseleave="Hide1()">
        <span class="Buttons">Experimental Page</span>
     </button>
     <div id="hiddentext1">
@@ -28,22 +18,15 @@
         <p><i>Experimental Page, where i experiment with code.</i></p>
         <p><i>Dont be suprised if that breaks since it will soon enough.</i></p>
     </div>
-    <!--<button type="button" onclick=J2() onmouseenter="W3()" onmouseleave="W4()">
-        <span class="C">The Gallery</span>
-     </button>
-     <div id="E">
-         <p><b>This is the button and image page.</b></p>
-         <p><i>It's the alpha version, it's a mess.</i></p>
-     </div>-->
      <button type="button" onclick=eventbutton() 
      id="christmas-button">
         <span class="Buttons">Special Event Button!</span>
      </button>
      <br> <br>
-     <button type="button" onclick=P()>
+     <button type="button" onclick=Unhide2()>
         <span class="Buttons">Frequently Asked Questions</span>
      </button>
-     <div id="K" class="K1">
+     <div id="hiddentext2" class="hiddentext2-1">
         <p><b>About Me!</b></p>
         <p><b><i>So, what is this supposed to be?</b></i></p>
         <p><i>Well this is a website, for me!</i></p>

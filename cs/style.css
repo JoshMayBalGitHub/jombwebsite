@@ -1,4 +1,4 @@
-/* Revamped CSS */
+/* Revamped CSS Part 2 */
 
 #main {
     background: url(https://i.vgy.me/Zziv6U.png) 
@@ -13,7 +13,7 @@
     display: none;
 }
 
-/*Seperation for cleanliness */
+/*Button Code*/
 .Buttons {
     transition-duration: 0.4s;
     opacity: 0.5;
@@ -43,50 +43,15 @@ button:hover .Buttons::after {
     opacity: 1;
     right: 0;
 }
-/*Seperation for cleanliness */
-
-/*
-.C {
-    transition-duration: 0.4s;
-    opacity: 0.5;
-    padding: 15px 37px;
-    font-size: x-large;
-    text-align: center;
-    display: inline-block;
-    cursor: pointer;
-    position: relative;
-}
-
-.C::after {
-    content: " >>";
-    position: absolute;
-    opacity: 0;
-    transition: 0.5s;
-    top: -5;
-    right: -6px;
-}
-
-button:hover .C {
-    opacity: 1;
-    padding-right: 32px;
-}
-
-button:hover .C::after {
-    opacity: 1;
-    right: 0;
-}
-*/
-
-/*Seperation for cleanliness */
-
-#K{
+/**/
+#hiddentext2{
     height: 400px;
     font-size: 12pt;
     font: caption;
     font-size: larger;
 }
 
-.K1 {
+.hiddentext2-1 {
     visibility: hidden;
 }
 /*EVENT SECTION*/
@@ -99,4 +64,3 @@ button:hover .C::after {
     background: url(https://i.vgy.me/LIURPr.png);
     color: black;
 }
-/*EVENT SECTION*/
