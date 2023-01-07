@@ -15,7 +15,7 @@
 
 ## CSS
 ```
-Nothing yet test
+Nothing yet
 ```
 
 ## JavaScript
