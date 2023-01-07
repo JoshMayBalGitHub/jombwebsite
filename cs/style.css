@@ -14,8 +14,7 @@
 }
 
 /*Seperation for cleanliness */
-
-.B {
+.Buttons {
     transition-duration: 0.4s;
     opacity: 0.5;
     padding: 15px 37px;
@@ -26,7 +25,7 @@
     position: relative;
 }
 
-.B::after {
+.Buttons::after {
     content: " >>";
     position: absolute;
     opacity: 0;
@@ -35,16 +34,15 @@
     right: -6px;
 }
 
-button:hover .B {
+button:hover .Buttons {
     opacity: 1;
     padding-right: 32px;
 }
 
-button:hover .B::after {
+button:hover .Buttons::after {
     opacity: 1;
     right: 0;
 }
-
 /*Seperation for cleanliness */
 
 /*
@@ -91,41 +89,7 @@ button:hover .C::after {
 .K1 {
     visibility: hidden;
 }
-
-/*Seperation for cleanliness */
-
-.BS {
-    transition-duration: 0.4s;
-    opacity: 0.5;
-    padding: 15px 37px;
-    font-size: x-large;
-    text-align: center;
-    display: inline-block;
-    cursor: pointer;
-    position: relative;
-}
-
-.BS::after {
-    content: " >>";
-    position: absolute;
-    opacity: 0;
-    transition: 0.5s;
-    top: -5;
-    right: -6px;
-}
-
-button:hover .BS {
-    opacity: 1;
-    padding-right: 32px;
-}
-
-button:hover .BS::after {
-    opacity: 1;
-    right: 0;
-}
-
 /*EVENT SECTION*/
-
 #christmas {
     background: url(https://i.vgy.me/qwX4Jz.png);
     color: white;
@@ -135,3 +99,4 @@ button:hover .BS::after {
     background: url(https://i.vgy.me/LIURPr.png);
     color: black;
 }
+/*EVENT SECTION*/
