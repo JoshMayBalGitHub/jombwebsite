@@ -16,13 +16,10 @@ function AG() {
 function J1() {
     window.location.href = "experiment.html";
 }
-
 // event seperation
-
 function eventbutton() {
     window.location.href = "school.html";
 }
-
 // event seperation
 
 /*function J2() {
