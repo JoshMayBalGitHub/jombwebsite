@@ -27,7 +27,7 @@ function eventbutton() {
     window.location.href = "school.html";
 }
 
-function BPJ() {
+function indexbutton() {
     window.location.href = "index.html";
 }
 // Used in FAQ hidden text
