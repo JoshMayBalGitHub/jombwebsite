@@ -44,7 +44,9 @@ button:hover .Buttons::after {
     opacity: 1;
     right: 0;
 }
-/**/
+/*/////////////////
+Hidden Texts of Index
+/////////////////*/
 #hiddentext2{
     height: 400px;
     font-size: 12pt;
@@ -55,9 +57,9 @@ button:hover .Buttons::after {
 .hiddentext2-1 {
     visibility: hidden;
 }
-/*/////////////////*/
-/*EVENT SECTION*/
-/*/////////////////*/
+/*/////////////////
+   EVENT SECTION
+/////////////////*/
 #christmas {
     background: url(https://i.vgy.me/qwX4Jz.png);
     color: white;
