@@ -1,38 +1,28 @@
-
-// the function "CD" makes the manual-button timer work. 
-function CD() {
-    var CV = document.getElementById("CDB").innerHTML
-    var NV = 0;
-    if (CV > 0) {
-        NV = CV - 1;
+// the function below makes the manual-button timer work. 
+function MouseClickTest() {
+    var mct_OriginalValue = document.getElementById("mcbutton").innerHTML
+    var mct_NewValue = 0;
+    if (mct_OriginalValue > 0) {
+        mct_NewValue = mct_OriginalValue - 1;
     }
-    document.getElementById("CDB").innerHTML = NV;
-}
-// Oh btw the function AG is not used
-function AG() {
-    var NT = "LOL"
-    document.getElementById("ABS").innerHTML = NT;
-}
-
-function J1() {
-    window.location.href = "experiment.html";
-}
-
-function RM() {
-    document.getElementById("HM").style.display = "block"
+    document.getElementById("mcbutton").innerHTML = mct_NewValue;
 }
 function BPJ() {
     window.location.href = "index.html";
 }
 
-// i have to keep up the local copy with the other 
-// repo instead of submodule, brilliant suffering.
+/* i have to keep up the local copy with the other 
+   repo instead of submodule, brilliant suffering. */
 function TEST() {
     window.location.href = "mathejomb/index.html";
 }
 
 function TEST2() {
     window.location.href = "https://joshmaybaljomb.tk/";
+}
+
+function Unhide1() {
+    document.getElementById("HM").style.display = "block"
 }
 
 function math() {
