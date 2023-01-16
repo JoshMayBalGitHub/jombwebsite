@@ -3,15 +3,6 @@
 #main {
     background: url(https://i.vgy.me/Zziv6U.png) 
 }
-
-#hiddentext1 {
-   visibility: hidden;
-}
-
-/*Seperation for cleanliness */
-#E {
-    display: none;
-}
 /*/////////////////*/
 /*Button Code*/
 /*/////////////////*/
@@ -47,6 +38,10 @@ button:hover .Buttons::after {
 /*/////////////////
 Hidden Texts of Index
 /////////////////*/
+#hiddentext1 {
+    visibility: hidden;
+ }
+ 
 #hiddentext2{
     height: 400px;
     font-size: 12pt;
