@@ -20,6 +20,10 @@ function TEST() {
 function TEST2() {
     window.location.href = "https://joshmaybaljomb.tk/";
 }
+/*Kinda wish this is not what i have to do every darn time i have to link stuff*/
+function TEST3() {
+    window.location.href = "navbar-test/index-navbar.htm";
+}
 
 function Unhide1() {
     document.getElementById("HM").style.display = "block"
