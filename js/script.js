@@ -17,6 +17,11 @@ chirstmas - december
 function eventbutton() {
     window.location.href = "school.html";
 }
+// Go to intro.html, duh! But please this is not good can someone change this?
+function introbutton() {
+    window.location.href = "intro.html";
+}
+
 // This is used to go back to home page.
 function indexbutton() {
     window.location.href = "index.html";

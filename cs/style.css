@@ -1,7 +1,17 @@
 /* Revamped CSS Part 2 */
-
+html {
+    scroll-behavior: smooth;
+}
+a {
+    text-decoration: none;
+    color: green;
+}
 #main {
     background: url(https://i.vgy.me/Zziv6U.png) 
+}
+#main-center {
+    text-align: center;
+    background: url(https://i.vgy.me/Zziv6U.png)
 }
 /*/////////////////*/
 /*Button Code*/
@@ -63,4 +73,14 @@ Hidden Texts of Index
 #school {
     background: url(https://i.vgy.me/LIURPr.png);
     color: black;
+}
+/*/////////////////
+INTRO SECTION
+/////////////////*/
+#img-joshua {
+    width:700px; 
+    height:200px;
+}
+.all-text {
+    font-size:32px;
 }
