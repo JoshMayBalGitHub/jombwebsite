@@ -17,7 +17,7 @@ chirstmas - december
 function eventbutton() {
     window.location.href = "school.html";
 }
-// Go to intro.html, duh! But please this is not good can someone change this?
+// Go to intro.html, duh! But please this is not good can someone change this? - Joshua 21 April 2023
 function introbutton() {
     window.location.href = "intro.html";
 }
@@ -32,4 +32,8 @@ function Unhide2() {
     const K = document.getElementById("hiddentext2");
     K.classList.toggle("hiddentext2-1");
 }
+/* Dropdown Toggle using Event Click */
+function tablecontextdd() {
+    document.getElementById("table-content-dd").classList.toggle("show-dd");
+  }
 
