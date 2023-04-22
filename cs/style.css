@@ -11,7 +11,7 @@ a {
 }
 #main-center {
     text-align: center;
-    background: url(https://i.vgy.me/Zziv6U.png)
+    background: #ffc100;
 }
 /*/////////////////*/
 /*Button Code*/
@@ -84,3 +84,35 @@ INTRO SECTION
 .all-text {
     font-size:32px;
 }
+/*/////////////////
+Table of Content Navbar
+/////////////////*/     
+.table-content-navbar {
+    border: 2px solid black;
+    display: inline-block;
+    margin:auto;
+    padding: 10px;
+    background-color:rosybrown;
+    }
+.dropdown-tc .dd-button {
+        cursor: pointer;
+        font-size: 32px;  
+        border: none;
+        outline: none;
+        color: white;
+        padding: 14px 16px;
+        background-color: inherit;
+        font-family: inherit;
+        margin: 0;
+      }
+.table-content {
+    display: none;
+    position: relative;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+.show-dd {
+    display: block;
+  }
