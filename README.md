@@ -25,6 +25,6 @@ Note: As time progresses, the version releases's name change.
 
 
 
-### Website: https://joshmaybaljomb.ml/
+### Website: https://joshmaybaljomb.netlify.app
 
 For more details: https://gitlab.com/JoshMayBalGitHub/jombwebsite/-/wikis/Home
