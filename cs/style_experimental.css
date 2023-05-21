@@ -130,3 +130,10 @@ body {
 .stitle_coc {
     font-size: 35px;
 }
+.text_coc {
+    font-size: 25px;
+}
+.img-coc {
+    width:1000px; 
+    height:500px;
+}
