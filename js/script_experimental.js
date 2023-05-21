@@ -10,21 +10,7 @@ function MouseClickTest() {
 function BPJ() {
     window.location.href = "index.html";
 }
-
-/* i have to keep up the local copy with the other 
-   repo instead of submodule, brilliant suffering. */
-function TEST() {
-    window.location.href = "mathejomb/index.html";
-}
-
-function TEST2() {
-    window.location.href = "https://joshmaybaljomb.tk/";
-}
-/*Kinda wish this is not what i have to do every darn time i have to link stuff*/
-function TEST3() {
-    window.location.href = "navbar-test/index-navbar.htm";
-}
-
+/*Kinda wish this is not what i have to do every darn time i have to link stuff* - fixed 21 May 2023*/
 function Unhide1() {
     document.getElementById("HM").style.display = "block"
 }
