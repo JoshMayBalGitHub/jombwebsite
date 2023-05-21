@@ -12,7 +12,7 @@ function Hide1() {
 }
 /* event button, change every time:
 school - default event
-chirstmas - december
+christmas - december (and or vacation during the "ber" months: September, October, November and December)
 */
 function eventbutton() {
     window.location.href = "school.html";
