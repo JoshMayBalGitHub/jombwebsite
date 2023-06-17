@@ -1,0 +1,47 @@
+/* Mostly same but will soon change most likely */
+html {
+    scroll-behavior: smooth;
+}
+a {
+    text-decoration: none;
+    color: green;
+}
+#main {
+    background: url(https://i.vgy.me/Zziv6U.png) 
+}
+#main-center {
+    text-align: center;
+    background: #ffc100;
+}
+/*/////////////////*/
+/*Button Code*/
+/*/////////////////*/
+.Buttons {
+    transition-duration: 0.4s;
+    opacity: 0.5;
+    padding: 15px 37px;
+    font-size: x-large;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+}
+
+.Buttons::after {
+    content: " >>";
+    position: absolute;
+    opacity: 0;
+    transition: 0.5s;
+    top: -5;
+    right: -6px;
+}
+
+button:hover .Buttons {
+    opacity: 1;
+    padding-right: 32px;
+}
+
+button:hover .Buttons::after {
+    opacity: 1;
+    right: 0;
+}
