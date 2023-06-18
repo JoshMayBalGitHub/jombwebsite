@@ -46,6 +46,19 @@ button:hover .Buttons::after {
     right: 0;
 }
 /*/////////////////
+Link Navigator
+/////////////////*/
+.BSE {
+    transition-duration: 0.4s;
+    padding: 15px 37px;
+    font-size: x-large;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+}
+
+/*/////////////////
 Hidden Texts of Index
 /////////////////*/
 #hiddentext1 {
