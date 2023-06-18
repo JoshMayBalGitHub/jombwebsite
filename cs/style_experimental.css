@@ -92,17 +92,6 @@ body {
 #BP {
     background-color: darkred;
 }
-/*Experimental Links*/
-.BSE {
-    transition-duration: 0.4s;
-    padding: 15px 37px;
-    font-size: x-large;
-    text-align: center;
-    display: inline-block;
-    cursor: pointer;
-    position: relative;
-}
-
 /*AXIE SECTION*/
 #jomb_bg {
     background: url(https://i.vgy.me/Zziv6U.png) 
