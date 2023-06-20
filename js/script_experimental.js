@@ -16,7 +16,7 @@ function gohome() {
 }
 
 function gohome_more() {
-    window.location.href = "../../index.html";
+    window.location.href = "../../navigator.html";
 }
 // TO INDEX BUTTONS todo: pls fix
 
