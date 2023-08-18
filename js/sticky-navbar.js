@@ -1,4 +1,5 @@
-window.onscroll = function() {stickyNavbar()};
+window.addEventListener('load', function() {
+  window.onscroll = function() {stickyNavbar()};
   
 var navbar = document.getElementById("sticky-navbar-tb");
 var sticky = navbar.offsetTop;
@@ -10,3 +11,4 @@ function stickyNavbar() {
     navbar.classList.remove("sticky-navbar");
   }
 }
+});
