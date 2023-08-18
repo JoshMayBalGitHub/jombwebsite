@@ -31,3 +31,6 @@ function math() {
 function math2() {
     document.getElementById("mathans").style.display = "none"
 }
+function chapix() {
+    document.getElementById("js-ddcont").classList.toggle("show-ddcont");
+}
