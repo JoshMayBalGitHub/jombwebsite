@@ -55,6 +55,7 @@ Dropdown Navbar
 //////////////////*/
 .dropbtn { /*Probably change sa kinabukasan di ko alam...*/
     cursor: pointer;
+    font-size: large;
 }
 .dropdown-content {
     display: none;
