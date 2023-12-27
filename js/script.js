@@ -15,7 +15,7 @@ school - default event
 christmas - december (and or vacation during the "ber" months: September, October, November and December)
 */
 function eventbutton() {
-    window.location.href = "school.html";
+    window.location.href = "christmas.html";
 }
 // Go to intro.html, duh! But please this is not good can someone change this? - Joshua 21 April 2023
 function introbutton() {
