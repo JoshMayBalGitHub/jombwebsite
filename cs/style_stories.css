@@ -12,6 +12,7 @@ a {
 #main-center {
     text-align: center;
     background: #cfb14e;
+    list-style-position:inside;
 }
 .sticky-navbar {
     top:0;
