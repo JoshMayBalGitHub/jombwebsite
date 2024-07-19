@@ -5,9 +5,11 @@
 
 Changelog:
 
-— Out of the Open Beta 
+— Out of the Open Beta Test
 
 — Finished the Spin-off Chapter: It's Magic Time
+
+— Finished Spinoff Herald of Darkness based on Idea 19 (fully?)
 
 — Finished and Finalized C1S1: Reúnion de Avancé and C2S2: School Chess Game
 
@@ -30,6 +32,8 @@ It's Magic Time: A spin-off chapter exploring an idea of Mijo's transformation a
 Changelog:
 
 — Continue of spinoff It's Magic Time based on Idea 16 (Main Content)
+
+— Release of new Spinoff Herald of Darkness based on Idea 19 (Short, should I make it longer, thoughts?)
 
 —Temporary stop on all S2 content for the foreseeable future
 
