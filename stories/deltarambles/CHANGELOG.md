@@ -1,7 +1,7 @@
 # DeltaRambles: "Version Update" 
 
 
-1.0: July 12 2024 — ???: "An Everlasting Night"
+1.0: July 31 2024 — ???: "An Everlasting Night"
 
 Changelog:
 
@@ -10,6 +10,8 @@ Changelog:
 — Finished the Spin-off Chapter: It's Magic Time
 
 — Finished Spinoff Herald of Darkness based on Idea 19 (fully?)
+
+— Finished another Spinoff A Confession of A Thousand Cuts, basically existentialist essay
 
 — Finished and Finalized C1S1: Reúnion de Avancé and C2S2: School Chess Game
 
@@ -27,7 +29,7 @@ It's Magic Time: A spin-off chapter exploring an idea of Mijo's transformation a
 
 
 
-0.7.x: May 03 2024 — July 11 2024: "Magic Works Anew"
+0.7.x: May 03 2024 — July 30 2024: "Magic Works Anew"
 
 Changelog:
 
