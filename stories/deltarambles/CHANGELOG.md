@@ -1,7 +1,14 @@
 # DeltaRambles: "Version Update" 
 
+## 1.0.x: August 05 2024 — ???: "An Everlasting Night"
 
-1.0: July 31 2024 — ???: "An Everlasting Night"
+### 1.0.1: August 15 2024 - ???
+
+Changelog:
+
+— Finished another Spinoff Chapter: Broken Souls, Broken Hearts (tragic romance)
+
+### 1.0.0: August 07 2024 - August 15 2024
 
 Changelog:
 
@@ -23,13 +30,13 @@ Changelog:
 
 
 
-Open Beta Test: Multiple Draft and Combat Reading, last version was 0.7.7 where the last IMT update was finalized before the major version release
+### Open Beta Test: Multiple Draft and Combat Reading, last version was 0.7.7 where the last IMT update was finalized before the major version release
 
-It's Magic Time: A spin-off chapter exploring an idea of Mijo's transformation and fight in the most troubling of nights and mornings.
+### It's Magic Time: A spin-off chapter exploring an idea of Mijo's transformation and fight in the most troubling of nights and mornings.
 
 
 
-0.7.x: May 03 2024 — July 30 2024: "Magic Works Anew"
+## 0.7.x: May 03 2024 — August 05 2024: "Magic Works Anew"
 
 Changelog:
 
@@ -48,7 +55,7 @@ Changelog:
 — Anniversary Celebration on June 18! (You get nothing, I forgot it too lol)
 
 
-0.6.x: March 07 2024 — May 02 2024: "The Worker's Icicle of Fun!"
+## 0.6.x: March 07 2024 — May 02 2024: "The Worker's Icicle of Fun!"
 
 Happy March 7th! (HSR March-7 birthday) ❄️
 
@@ -77,7 +84,7 @@ Changelog:
 — Added first draft of C4S2: "The Student's Night"
 
 
-0.5.x: February 09 2024 — March 06 2024: "The Magic Review"
+## 0.5.x: February 09 2024 — March 06 2024: "The Magic Review"
 
 Changelog:
 
@@ -89,7 +96,7 @@ Changelog:
 
 
 
-0.4.x: January 10 2024 — February 08 2024: "The Annual School Intramurals"
+## 0.4.x: January 10 2024 — February 08 2024: "The Annual School Intramurals"
 
 Changelog:
 
@@ -101,7 +108,7 @@ Changelog:
 
 
 
-0.3.x: November 14 2023 — January 09 2024: "Winter is Coming"
+## 0.3.x: November 14 2023 — January 09 2024: "Winter is Coming"
 
 Changelog:
 
@@ -113,7 +120,7 @@ Changelog:
 
 
 
-0.2.x: August 28 2023 — November 13 2023: "At the School, a Chess Game"
+## 0.2.x: August 28 2023 — November 13 2023: "At the School, a Chess Game"
 
 Changelog:
 
@@ -127,7 +134,7 @@ Changelog:
 
 
 
-0.1.x: June 18 2023 — August 27 2023: "Advanced Reunion"
+## 0.1.x: June 18 2023 — August 27 2023: "Advanced Reunion"
 
 Changelog:
 
