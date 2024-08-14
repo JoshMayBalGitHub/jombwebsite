@@ -1,6 +1,6 @@
 # Changelogs:
 ### [DeltaRambles Changelog](stories/deltarambles/CHANGELOG.md)
-Note: the below is a ported one from the old wiki
+Note: the below is a ported one from the old wiki, also historical
 ## Website Version's History
 ### 0.01
 
