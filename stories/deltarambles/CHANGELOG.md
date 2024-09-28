@@ -2,11 +2,27 @@
 
 ## 1.0.x: August 05 2024 — ???: "An Everlasting Night"
 
-### 1.0.1: August 15 2024 - ???
+### 1.1.0: September 28 2024 — ???
+
+Changelog:
+
+— Continuation of C5S2 (more ideas too), JeEl Saga, C3S1
+
+— Minor corrections / additions in C2S1, C2S2
+
+— NEW spinoff Chapter: The Past in the Abyss (MORE jomi lore)
+
+— NEW (nsfw) BONUS Scenes: in IMT and HoD ;D again, NSFW warning
+
+### 1.0.1: August 15 2024 - September 27 2024
 
 Changelog:
 
 — Finished another Spinoff Chapter: Broken Souls, Broken Hearts (tragic romance)
+
+— Start of C5S2: After Brigada Escuela (teenage angst + romance)
+
+— Start of the Jeannelle Saga (high fantasy loop tragedy)
 
 ### 1.0.0: August 07 2024 - August 15 2024
 
