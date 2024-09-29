@@ -1,6 +1,6 @@
 # DeltaRambles: "Version Update" 
 
-## 1.0.x: August 05 2024 — ???: "An Everlasting Night"
+## 1.1.x: September 28 2024 - ???: "The Night Goes On"
 
 ### 1.1.0: September 28 2024 — ???
 
@@ -14,6 +14,8 @@ Changelog:
 
 — NEW (nsfw) BONUS Scenes: in IMT and HoD ;D again, NSFW warning
 
+## 1.0.x: August 05 2024 — September 27 2024: "An Everlasting Night"
+
 ### 1.0.1: August 15 2024 - September 27 2024
 
 Changelog:
@@ -23,6 +25,8 @@ Changelog:
 — Start of C5S2: After Brigada Escuela (teenage angst + romance)
 
 — Start of the Jeannelle Saga (high fantasy loop tragedy)
+
+— Celebrate September 7, 11, and 22~~~ (jmb's birthday, 9/11 allende y ddlc monika's birthday)
 
 ### 1.0.0: August 07 2024 - August 15 2024
 
