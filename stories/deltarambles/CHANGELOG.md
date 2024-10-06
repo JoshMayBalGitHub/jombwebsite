@@ -1,8 +1,18 @@
 # DeltaRambles: "Version Update" 
 
-## 1.1.x: September 28 2024 - ???: "The Night Goes On"
+## 1.1.x: September 28 2024 — ???: "The Night Goes On"
 
-### 1.1.0: September 28 2024 — ???
+## 1.1.1: October 06 2024 — ???
+
+Changelog:
+
+— Continuation of C5S2, C3S1
+
+— FIXED MAJOR BUG WITH TPitA (it was completely replaced by c3s1 woops)
+
+— NEW SEASON 2 Chapter: Easier to Run C6S2 FULLY DONE (based on some c5s2 ideas, basically angst again) 
+
+### 1.1.0: September 28 2024 — October 05 2024
 
 Changelog:
 
@@ -16,7 +26,7 @@ Changelog:
 
 ## 1.0.x: August 05 2024 — September 27 2024: "An Everlasting Night"
 
-### 1.0.1: August 15 2024 - September 27 2024
+### 1.0.1: August 15 2024 — September 27 2024
 
 Changelog:
 
@@ -28,7 +38,7 @@ Changelog:
 
 — Celebrate September 7, 11, and 22~~~ (jmb's birthday, 9/11 allende y ddlc monika's birthday)
 
-### 1.0.0: August 07 2024 - August 15 2024
+### 1.0.0: August 07 2024 — August 15 2024
 
 Changelog:
 
