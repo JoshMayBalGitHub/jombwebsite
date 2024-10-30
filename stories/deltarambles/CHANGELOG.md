@@ -2,7 +2,19 @@
 
 ## 1.1.x: September 28 2024 — ???: "The Night Goes On"
 
-## 1.1.1: October 06 2024 — ???
+HAPPY HALLOWEEN (and R.I.P. to those who have perished, amen.)
+
+## 1.1.2: October 31 2024 — ???
+
+Changelog:
+
+— Continuation of C5S2, C3S1
+
+— Relased new chapter spinoff: A Light that Never Comes (teenage anxiety + advice)
+
+— New (nsfw) BONUS Scenes: in TSN-ABS, EtR, and FtL ;D, tackles more heavy NSFW STUFF
+
+## 1.1.1: October 06 2024 — October 30 2024
 
 Changelog:
 
