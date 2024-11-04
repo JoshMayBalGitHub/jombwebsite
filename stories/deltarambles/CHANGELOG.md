@@ -3,6 +3,7 @@
 ## 1.1.x: September 28 2024 — ???: "The Night Goes On"
 
 HAPPY HALLOWEEN (and R.I.P. to those who have perished, amen.)
+USA Election Day 2024 (I'm not endorsing anyone.. yet. But I hope 'they' win.)
 
 ## 1.1.2: October 31 2024 — ???
 
@@ -10,10 +11,14 @@ Changelog:
 
 — Continuation of C5S2, C3S1
 
+— Rekeased new SEASON 2 Chapter: The Catalyst C7S2 (plot driven mainly + angst backdrop)
+
+— Added 'The Dajovy Times' a sort-of off the cuff podcast starring Mijo and Jomi
+
 — Relased new chapter spinoff: A Light that Never Comes (teenage anxiety + advice)
 
-— New (nsfw) BONUS Scenes: in TSN-ABS, EtR, and FtL ;D, tackles more heavy NSFW STUFF
-
+— New (nsfw) BONUS Scenes: in TSN-ABS, EtR, FtL, and TCt ;D, tackles more heavy NSFW STUFF
+ 
 ## 1.1.1: October 06 2024 — October 30 2024
 
 Changelog:
