@@ -11,13 +11,15 @@ Changelog:
 
 — Continuation of C5S2, C3S1
 
-— Rekeased new SEASON 2 Chapter: The Catalyst C7S2 (plot driven mainly + angst backdrop)
+— Released new SEASON 2 Chapter: The Catalyst C7S2 (plot driven mainly + angst backdrop)
 
-— Added 'The Dajovy Times' a sort-of off the cuff podcast starring Mijo and Jomi
+— Added 'The Dajovy Times' a sort-of off the cuff podcast starring Mijo and Jomi (E1-7)
 
 — Relased new chapter spinoff: A Light that Never Comes (teenage anxiety + advice)
 
-— New (nsfw) BONUS Scenes: in TSN-ABS, EtR, FtL, and TCt ;D, tackles more heavy NSFW STUFF
+— Released new chapter spinoff drafts: Stealin' Christmas (christmas special) and A Hundred Cuts (Mental Instability and it's effects)
+
+— New (nsfw) BONUS Scenes: in TSN-ABS, EtR, FtL, and TCt(x4) ;D, tackles more heavy NSFW STUFF + more potential for character development!
  
 ## 1.1.1: October 06 2024 — October 30 2024
 
