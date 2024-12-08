@@ -10,7 +10,9 @@ Changelog:
 
 — Continued Stealin Chirstmas draft, published AHC fully
 
-— New Scattered Post CS52 Scattered Stories, from angst, lust and many more! (Count:5)
+— A Camellia Flower spinoff released! (Camellya WuWa inspiration)
+
+— New Scattered Post CS52 Scattered Stories, from angst, lust and many more! (Count:7)
 
 ## 1.1.x: September 28 2024 — November 29 2024: "The Night Goes On"
 
