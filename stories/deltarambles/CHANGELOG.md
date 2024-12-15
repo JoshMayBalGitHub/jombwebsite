@@ -2,17 +2,21 @@
 
 ## 1.2.x: November 30 2024 — ???: "The Camellia Bloom"
 
+Dec 15 — Happy Birthday to a special person in my life! (You'll never know~)
+
 ## 1.2.0: November 30 2024 — ???
 
 Changelog:
 
 — Continuation of C5S2, C3S1, C7S2, The Dajovy Times (E5-10)
 
-— Continued Stealin Chirstmas draft, published AHC fully
+— Continued Stealin Chirstmas draft (now SCr is C8S2), published AHC fully
 
 — A Camellia Flower spinoff released! (Camellya WuWa inspiration)
 
 — New Scattered Post CS52 Scattered Stories, from angst, lust and many more! (Count:7)
+
+— New (nsfw) BONUS Scene in SCr ;D, more introspective stuff..
 
 ## 1.1.x: September 28 2024 — November 29 2024: "The Night Goes On"
 
