@@ -3,6 +3,8 @@
 ## 1.2.x: November 30 2024 — ???: "The Camellia Bloom"
 
 Dec 15 — Happy Birthday to a special person in my life! (You'll never know~)
+Dec 25 — MERRY CHRISTMAS DEAR COMPADRES!!!
+Jan 1 — HAPPY NEW YEAR (Hopefully)
 
 ## 1.2.0: November 30 2024 — ???
 
@@ -16,7 +18,7 @@ Changelog:
 
 — New Scattered Post CS52 Scattered Stories, from angst, lust and many more! (Count:7)
 
-— New (nsfw) BONUS Scene in SCr ;D, more introspective stuff..
+— New (nsfw) BONUS Scenes in SCr ;D, more introspective stuff.. + somewhat interesting development
 
 ## 1.1.x: September 28 2024 — November 29 2024: "The Night Goes On"
 
