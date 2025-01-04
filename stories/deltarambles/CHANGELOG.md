@@ -6,7 +6,15 @@ Dec 15 — Happy Birthday to a special person in my life! (You'll never know~)
 Dec 25 — MERRY CHRISTMAS DEAR COMPADRES!!!
 Jan 1 — HAPPY NEW YEAR (Hopefully)
 
-## 1.2.0: November 30 2024 — ???
+## 1.2.1 January 05 2025 — ???
+
+Changelog:
+
+— Publish and Finish of C4S2: The Student's Night! YAHOO!
+
+— Continuation of C5S2, C3S1, C7S2, The Dajovy Times (E5-10)
+
+## 1.2.0: November 30 2024 — January 04 2024
 
 Changelog:
 
