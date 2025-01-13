@@ -12,6 +12,8 @@ Changelog:
 
 — Publish and Finish of C4S2: The Student's Night! YAHOO!
 
+— Publish of spinoff: A Glimpse into Reality (meta-commentary on wwriting)
+
 — Continuation of C5S2, C3S1, C7S2, The Dajovy Times (E5-10)
 
 ## 1.2.0: November 30 2024 — January 04 2024
