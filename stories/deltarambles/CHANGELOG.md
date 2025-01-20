@@ -1,12 +1,23 @@
 # DeltaRambles: "Version Update" 
 
-## 1.2.x: November 30 2024 — ???: "The Camellia Bloom"
+## 1.3.x: January 21 2025 — ???: "The Land of Dreams.."
+
+## 1.3.0: January 21 2025 — ???
+
+Changelog:
+
+— NEW SPINOFF: THE MIZO/RIKA SAGA!
+
+— that's it lol
+
+## 1.2.x: November 30 2024 — January 20 2025: "The Camellia Bloom"
 
 Dec 15 — Happy Birthday to a special person in my life! (You'll never know~)
 Dec 25 — MERRY CHRISTMAS DEAR COMPADRES!!!
 Jan 1 — HAPPY NEW YEAR (Hopefully)
+Jan 16 — Happy Birthday too! to a special person in my life as well..!
 
-## 1.2.1 January 05 2025 — ???
+## 1.2.1 January 05 2025 — January 20 2025
 
 Changelog:
 
