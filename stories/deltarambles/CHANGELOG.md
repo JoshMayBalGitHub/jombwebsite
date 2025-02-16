@@ -2,13 +2,15 @@
 
 ## 1.3.x: January 21 2025 — ???: "The Land of Dreams.."
 
+Feb 14 — HAPPY VALENTINE'S DAY!!! (as if you have a partner ;D )
+
 ## 1.3.0: January 21 2025 — ???
 
 Changelog:
 
 — NEW SPINOFF: THE MIZO/RIKA SAGA! TWO CHAPTERS OUT + BONUS SCENES!
 
-— that's it lol
+— NEW SPINOFF: A Valentine's Day!!! (title. bruh. love story w/ some humor)
 
 ## 1.2.x: November 30 2024 — January 20 2025: "The Camellia Bloom"
 
