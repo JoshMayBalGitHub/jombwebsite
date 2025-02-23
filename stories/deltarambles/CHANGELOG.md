@@ -8,9 +8,9 @@ Feb 14 — HAPPY VALENTINE'S DAY!!! (as if you have a partner ;D )
 
 Changelog:
 
-— Massive change to director's commentary! (new format and navigator)
+— Massive change to director's commentary! (new format and navigator, + 3 articles there!)
 
-— MASSIVE REWRITE OF SEASON 1 HAPPENING RIGHT NOW (check c3 as of right now)
+— MASSIVE REWRITE OF SEASON 1 HAPPENING RIGHT NOW (check c3 as of right now, others untouched except titles)
 
 — NEW SPINOFF: THE MIZO/RIKA SAGA! TWO CHAPTERS OUT + BONUS SCENES!
 
