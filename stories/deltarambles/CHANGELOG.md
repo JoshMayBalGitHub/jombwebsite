@@ -12,7 +12,7 @@ Changelog:
 
 — MASSIVE REWRITE OF SEASON 1 HAPPENING RIGHT NOW (check c3 as of right now, others untouched except titles)
 
-— NEW SPINOFF: THE MIZO/RIKA SAGA! TWO (Three now) CHAPTERS OUT + BONUS SCENES! (6?)
+— NEW SPINOFF: THE MIZO/RIKA SAGA! TWO (Three now) CHAPTERS OUT + BONUS SCENES! (7?)
 
 — NEW SPINOFF: A Valentine's Day!!! (title. bruh. love story w/ some humor)
 
