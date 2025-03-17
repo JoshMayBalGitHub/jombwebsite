@@ -1,10 +1,25 @@
 # DeltaRambles: "Version Update" 
 
-## 1.3.x: January 21 2025 — ???: "The Land of Dreams.."
+## 1.4.x: March 18 2025 — ??? "The Rising Tides and Wuthering Waves"
+
+## 1.4.0: March 18 2025 — ???
+
+Changelog:
+
+— Continuation of Writing of Mizo/Rika (4th) and other bonus scenes (currently none, 1 in writing)
+
+— Continuation of Season 1 Rewrite (still not done, I know.. currently in C3)
+
+— Continuation of Director/Author's Commentary (1 in writing)
+
+— NEW Bonus Scenes (yes from dr main. 1 released, 2 in writing)
+
+
+## 1.3.x: January 21 2025 — March 17 2025 "The Land of Dreams.."
 
 Feb 14 — HAPPY VALENTINE'S DAY!!! (as if you have a partner ;D )
 
-## 1.3.0: January 21 2025 — ???
+## 1.3.0: January 21 2025 — March 17 2025
 
 Changelog:
 
@@ -12,7 +27,7 @@ Changelog:
 
 — MASSIVE REWRITE OF SEASON 1 HAPPENING RIGHT NOW (check c3 as of right now, others untouched except titles)
 
-— NEW SPINOFF: THE MIZO/RIKA SAGA! TWO (Three now) CHAPTERS OUT + BONUS SCENES! (7?)
+— NEW SPINOFF: THE MIZO/RIKA SAGA! TWO (Three now) CHAPTERS OUT + BONUS SCENES! (7)
 
 — NEW SPINOFF: A Valentine's Day!!! (title. bruh. love story w/ some humor)
 
