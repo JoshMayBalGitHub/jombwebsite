@@ -10,7 +10,7 @@ Changelog:
 
 — Continuation of Season 1 Rewrite (still not done, I know.. currently in C3)
 
-— Continuation of Director/Author's Commentary (1 in writing)
+— Continuation of Director/Author's Commentary (1 published)
 
 — NEW Bonus Scenes (yes from dr main. 1 released, 2 in writing)
 
