@@ -8,7 +8,7 @@ Changelog:
 
 — Continuation of Writing of Mizo/Rika (4th) and other bonus scenes (currently none, 1 in writing)
 
-— Continuation of Season 1 Rewrite (still not done, I know.. currently in C3)
+— Continuation of Season 1 Rewrite (C3 DONE! CHECK IT OUT! C4 is currently in production as of March 26, 2025)
 
 — Continuation of Director/Author's Commentary (1 published)
 
