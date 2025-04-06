@@ -6,9 +6,11 @@
 
 Changelog:
 
-— Continuation of Writing of Mizo/Rika (4th) and other bonus scenes (currently none, 1 in writing)
+— CHAPTER 9 SEASON 2 is in production and draft is live! (planned to be completed before May 1 ⚒️🛠️)
 
-— Continuation of Season 1 Rewrite (C3 DONE! CHECK IT OUT! C4 is currently in production as of March 26, 2025)
+— Continuation of Writing of Mizo/Rika (4th chapter, 6 sections done, 2 more planned) and other bonus scenes (currently none, 1 in writing)
+
+— Continuation of Season 1 Rewrite (C3 DONE! CHECK IT OUT! C4 is currently in production as of April 07, 2025)
 
 — Continuation of Director/Author's Commentary (1 published)
 
