@@ -2,7 +2,21 @@
 
 ## 1.4.x: March 18 2025 — ??? "The Rising Tides and Wuthering Waves"
 
-## 1.4.0: March 18 2025 — ???
+## 1.4.1: April 27 2025 — ???
+
+Changelog:
+
+— Massive rework of the delta archives, testing using tiddlywiki-com
+
+— CHAPTER 9 SEASON 2 is in production and draft is live! (planned to be completed before May 1 ⚒️🛠️ HOPE TO GOD, I'M STILL WORKING ON IT)
+
+— 2 director commentaries on production (HSR and Andy & Leyley)
+
+— Planned Mizo/Rika new chapter, summer arc.
+
+— Season 1 Rewrite, C4 continuation, as of April 26, 2025
+
+## 1.4.0: March 18 2025 — April 26 2025
 
 Changelog:
 
