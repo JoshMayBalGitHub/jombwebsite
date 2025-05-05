@@ -6,13 +6,13 @@
 
 Changelog:
 
-— Massive rework of the delta archives, testing using tiddlywiki-com
+— Massive rework of the delta archives, testing using tiddlywiki-com || Added Mizo/Rika entries
 
 — CHAPTER 9 SEASON 2 is in production and draft is live! (planned to be completed before May 1 ⚒️🛠️ HOPE TO GOD, I'M STILL WORKING ON IT)
 
 — 2 director commentaries on production (HSR and Andy & Leyley)
 
-— Planned Mizo/Rika new chapter, summer arc.
+— Planned Mizo/Rika new chapter, summer arc. || Also rewriting earlier Mizo/RIka to fit established third person pov scene
 
 — Season 1 Rewrite, C4 continuation, as of April 26, 2025
 
