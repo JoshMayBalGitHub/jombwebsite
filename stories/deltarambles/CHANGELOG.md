@@ -6,11 +6,13 @@ May 1 ⚒️🛠️ - HAPPY WORKER'S DAY (yes, I know I'm late)
 
 ## 1.4.2: May 08, 2025 — ???
 
-— CHAPTER 9 SEASON 2 is in production and draft is live! (aiming for before May 10)
+— CHAPTER 9 SEASON 2 MAY 11 release! (a doozy this one)
 
 — Mizo/Rika new chapter, summer arc (3-4 done). || Also rewriting earlier Mizo/Rika (1-2?) to fit established third person pov scene
 
-— Season 1 Rewrite, C4 continuation, as of May 08, 2025, planning to update once hopefully May 10 arrives and it's done
+— Mizo/Rika bonus scenes.. a lot of them (4-5), an arc even. New Main BS too, in drafting.
+
+— Season 1 Rewrite, C4 continuation, as of May 08, 2025, planning to update once hopefully May ~~10~~ 23 arrives and it's done
 
 ## 1.4.1: April 27 2025 — May 07, 2025
 
