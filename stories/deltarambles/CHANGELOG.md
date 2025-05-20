@@ -6,6 +6,8 @@ May 1 ⚒️🛠️ - HAPPY WORKER'S DAY (yes, I know I'm late)
 
 ## 1.4.2: May 08, 2025 — ???
 
+— NEW DC! PROGRESS REPORT MAY 2025
+
 — CHAPTER 9 SEASON 2 MAY 11 release! (a doozy this one)
 
 — Mizo/Rika new chapter, summer arc (3-4 done). || Also rewriting earlier Mizo/Rika (1-2?) to fit established third person pov scene
