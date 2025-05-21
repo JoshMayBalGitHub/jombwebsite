@@ -10,13 +10,17 @@ function MouseClickTest() {
 function BPJ() {
     window.location.href = "index.html";
 }
-// TO INDEX BUTTONS todo: pls fix
+// TO INDEX BUTTONS TODO: pls fix
 function gohome() {
     window.location.href = "../index.html";
 }
 
 function gohome_more() {
     window.location.href = "../../navigator.html";
+}
+
+function gohome_less() {
+    window.location.href = "../navigator.html";
 }
 // TO INDEX BUTTONS todo: pls fix
 
