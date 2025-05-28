@@ -3,8 +3,15 @@
 ## 1.4.x: March 18 2025 — ??? "The Rising Tides and Wuthering Waves"
 
 May 1 ⚒️🛠️ - HAPPY WORKER'S DAY (yes, I know I'm late)
+May 26-27 ❤️❤️ — Certain Birthdays for special people~!
 
-## 1.4.2: May 08, 2025 — ???
+## 1.4.3 May 30, 2025 — ???
+
+— NEW DC! again.. AI Rant!
+
+— The Delta Archives + M/R fixes
+
+## 1.4.2: May 08, 2025 — May 29, 2025
 
 — NEW DC! PROGRESS REPORT MAY 2025
 
