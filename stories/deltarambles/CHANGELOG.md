@@ -1,11 +1,32 @@
 # DeltaRambles: "Version Update" 
 
-## 1.4.x: March 18 2025 — ??? "The Rising Tides and Wuthering Waves"
+## 2.0.x June 13 2025 — ??? "The Legionnares and Boxers"
+
+## 2.0.0 June 13 2025 — ???
+
+Changelog:
+
+— Mizo/Rika Summer Chapter 5 Done..? (Kinda, but it is a bit rushed)
+
+— Some progresss on C4 (Still on Dajovy Arc I)
+
+— Released unfinished HSR draft and June progress log for DC
+
+— Chapter 1 Season 3 Drafts available
+
+## 1.4.x: March 18 2025 — June 12 2025 "The Rising Tides and Wuthering Waves"
 
 May 1 ⚒️🛠️ - HAPPY WORKER'S DAY (yes, I know I'm late)
+
 May 26-27 ❤️❤️ — Certain Birthdays for special people~!
 
-## 1.4.3 May 30, 2025 — ???
+May 22, 2024 — Wuthering Waves Anniv ❤️🌊🎵
+
+Happy April Fools! (😆😝 April 1)
+
+Happy Anniversary HSR! (April 26-27) 🚅🌙
+
+## 1.4.3 May 30, 2025 — June 12, 2025
 
 — NEW DC! again.. AI Rant!
 
@@ -56,6 +77,8 @@ Changelog:
 
 ## 1.3.x: January 21 2025 — March 17 2025 "The Land of Dreams.."
 
+March 7 — (HSR March-7 birthday) ❄️
+
 Feb 14 — HAPPY VALENTINE'S DAY!!! (as if you have a partner ;D )
 
 ## 1.3.0: January 21 2025 — March 17 2025
@@ -73,8 +96,11 @@ Changelog:
 ## 1.2.x: November 30 2024 — January 20 2025: "The Camellia Bloom"
 
 Dec 15 — Happy Birthday to a special person in my life! (You'll never know~)
+
 Dec 25 — MERRY CHRISTMAS DEAR COMPADRES!!!
+
 Jan 1 — HAPPY NEW YEAR (Hopefully)
+
 Jan 16 — Happy Birthday too! to a special person in my life as well..!
 
 ## 1.2.1 January 05 2025 — January 20 2025
@@ -104,6 +130,7 @@ Changelog:
 ## 1.1.x: September 28 2024 — November 29 2024: "The Night Goes On"
 
 HAPPY HALLOWEEN (and R.I.P. to those who have perished, amen.)
+
 USA Election Day 2024 (I'm not endorsing anyone.. yet. But I hope 'they' win.)
 
 ## 1.1.2: October 31 2024 — November 29 2024
