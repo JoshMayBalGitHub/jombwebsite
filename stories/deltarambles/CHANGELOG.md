@@ -8,11 +8,13 @@ Changelog:
 
 — Mizo/Rika Summer Chapter 5 Done..? (Kinda, but it is a bit rushed)
 
-— Some progresss on C4 (Still on Dajovy Arc I)
+— Some progresss on C4,5 (Still on Dajovy Arc I)
 
 — Released unfinished HSR draft and June progress log for DC
 
-— Chapter 1 Season 3 Drafts available
+— Chapter 1 Season 3 Drafts available, as well as the 'completed' version
+
+— Added a Main bonus scene rough draft
 
 ## 1.4.x: March 18 2025 — June 12 2025 "The Rising Tides and Wuthering Waves"
 
