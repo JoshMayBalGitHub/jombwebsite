@@ -2,7 +2,13 @@
 
 ## 2.0.x June 13 2025 — ??? "The Legionnares and Boxers"
 
-## 2.0.0 June 13 2025 — ???
+## 2.0.1 June 23 2025 — ???
+
+— Mizo/Rika Chapter 6 SHS in production! (currently 1)
+
+— Chapter 1 and 2 Season 3 is available, 1 done, 2 not, for now.
+
+## 2.0.0 June 13 2025 — June 22, 2025
 
 Changelog:
 
