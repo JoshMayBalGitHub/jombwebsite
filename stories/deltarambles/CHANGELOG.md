@@ -8,7 +8,7 @@
 
 — Chapter 1 and 2 Season 3 is available, 1 done, 2 not, for now.
 
-— M/R Bonus Scenes available (2 currently)
+— M/R Bonus Scenes available (8 currently)
 
 — Random draft also available (regression song)
 
