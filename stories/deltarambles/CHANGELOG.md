@@ -1,8 +1,8 @@
 # DeltaRambles: "Version Update" 
 
-## 2.0.x June 13 2025 — ??? "The Legionnares and Boxers"
+## 2.0.x June 13 2025 — July 20 2025 "The Legionnares and Boxers"
 
-## 2.0.1 June 23 2025 — ???
+## 2.0.1 June 23 2025 — July 20 2025
 
 — Mizo/Rika Chapter 6 SHS in production! (currently 3)
 
@@ -11,6 +11,8 @@
 — M/R Bonus Scenes available (8 currently)
 
 — Random draft also available (regression song)
+
+— Final.
 
 ## 2.0.0 June 13 2025 — June 22, 2025
 
