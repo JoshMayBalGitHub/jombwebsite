@@ -4,9 +4,11 @@
 
 ## 2.0.2 July 21 2025 — ???
 
-— Version bump, also Final DC.
+— new weeklY? DC
 
-— new worked on spinoff (ToD)
+— Version bump, also 'Final' DC
+
+— new worked on spinoff (ToD) and C2S3 (DaF)
 
 ## 2.0.1 June 23 2025 — July 20 2025
 
