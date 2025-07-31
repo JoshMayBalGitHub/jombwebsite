@@ -2,7 +2,11 @@
 
 ## 2.0.x June 13 2025 — ??? "The Legionnares and Boxers"
 
-## 2.0.2 July 21 2025 — ???
+## 2.0.3 August 01 2025 — ???
+
+— Chapter 2 Season 3: Desolation of Festivities and Chapter 3 Season 3: Tired of Dreaming are DONE!!!!!
+
+## 2.0.2 July 21 2025 — July 31, 2025
 
 — new weeklY? DC
 
