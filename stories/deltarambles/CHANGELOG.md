@@ -2,7 +2,22 @@
 
 ## 2.0.x June 13 2025 — ??? "The Legionnares and Boxers"
 
-## 2.0.3 August 01 2025 — ???
+## 2.0.4 August 17 2025 — ???
+
+— More Mizo/Rika stuff!!! (4 done, 1 in writing)
+
+— Chapter 4 Season 3: A Thousand Dreams draft is ongoing!
+
+— Chapter 4 Season 1: Through the Dark is done! 
+
+— Chapter 5 Season 1: Rend the Skies writing is ongoing!
+
+— Moved Season 1 Drafts to a separate page for easier code reading!
+
+— August Devlog DC 'This Dream is Killing Me' published!
+
+
+## 2.0.3 August 01 2025 — August 16 2025
 
 — Chapter 2 Season 3: Desolation of Festivities and Chapter 3 Season 3: Tired of Dreaming are DONE!!!!!
 
