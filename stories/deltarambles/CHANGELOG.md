@@ -1,8 +1,22 @@
 # DeltaRambles: "Version Update" 
 
-## 2.0.x June 13 2025 — ??? "The Legionnares and Boxers"
+## 2.1.x September 7 2025 — ??? "The Cheers of the Past and Future"
 
-## 2.0.4 August 17 2025 — ???
+## 2.1.0 September 7 2025 — ???
+
+— Season 2 Chapter Rework (Added an extra Nuevo Leon focused chapter, so now it's c1 to c10)
+
+— Two new spinoffs! (A Birthday Duo and Triggered Explosions ;D )
+
+— Finished Chapter 7 of M/R, Chapter 8 Arc is ongoing! (M/R Separation, for real.)
+
+— Chapter 4 Season 3: A Thousand Dreams draft is STILL ongoing!
+
+— September devlog!
+
+## 2.0.x June 13 2025 — September 6 2025 "The Legionnares and Boxers"
+
+## 2.0.4 August 17 2025 — September 6 2025
 
 — More Mizo/Rika stuff!!! (4 done, 1 in writing)
 
