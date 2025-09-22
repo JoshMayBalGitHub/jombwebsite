@@ -2,7 +2,17 @@
 
 ## 2.1.x September 7 2025 — ??? "The Cheers of the Past and Future"
 
-## 2.1.0 September 7 2025 — ???
+## 2.1.1 September 23 2025 — ???
+
+— One new spinoff: A.F. Day!
+
+— Still working with Chapter 8 Mizo/Rika, called As She Weeps (3 sections done!)
+
+— Chapter 4 Season 3, A Thousand Dreams is done!!! Chapter 5 S3 Vague Drafting is ongoing, no set anything yet...
+
+— Chapter 5 Season 1: Rend the Skies should (must) be in writing, as well..
+
+## 2.1.0 September 7 2025 — September 22, 2025
 
 — Season 2 Chapter Rework (Added an extra Nuevo Leon focused chapter, so now it's c1 to c10)
 
