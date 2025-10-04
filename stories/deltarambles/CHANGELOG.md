@@ -2,7 +2,15 @@
 
 ## 2.1.x September 7 2025 — ??? "The Cheers of the Past and Future"
 
-## 2.1.1 September 23 2025 — ???
+## 2.1.2 October 04, 2025 — ???
+
+— Working on Chapter 8 Mizo/Rika... (4 sections done!)
+
+— Chapter 5 Season 3: The Blazing Sun, is on as well.
+
+— Chapter 5 Season 1: Rend the Skies continues on in writing hell
+
+## 2.1.1 September 23 2025 — October 03, 2025
 
 — One new spinoff: A.F. Day!
 
