@@ -1,8 +1,14 @@
 # DeltaRambles: "Version Update" 
 
-## 2.1.x September 7 2025 — ??? "The Cheers of the Past and Future"
+## 2.2.x October 23, 2025 "Dawn Breaks on Dark Tides"
 
-## 2.1.2 October 04, 2025 — ???
+## 2.2.0 October 23, 2025 — ???
+
+— October Devlog! My Battery Rose, IDK what that means but it cool 'pokemon nuzlocke platinum and zubat shenanigans'
+
+## 2.1.x September 7 2025 — October 22, 2025 "The Cheers of the Past and Future"
+
+## 2.1.2 October 04, 2025 — October 22, 2025
 
 — Working on Chapter 8 Mizo/Rika... (4 sections done!)
 
