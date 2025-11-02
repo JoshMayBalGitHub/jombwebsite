@@ -6,6 +6,8 @@
 
 — October Devlog! My Battery Rose, IDK what that means but it cool 'pokemon nuzlocke platinum and zubat shenanigans'
 
+— Mizo/Rika Chapter 8 done! Chapter 9 development has begun! (Next version will come with the hallooween special, which isn't right now)
+
 ## 2.1.x September 7 2025 — October 22, 2025 "The Cheers of the Past and Future"
 
 ## 2.1.2 October 04, 2025 — October 22, 2025
