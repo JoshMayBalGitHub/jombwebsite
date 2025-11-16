@@ -2,7 +2,13 @@
 
 ## 2.2.x October 23, 2025 "Dawn Breaks on Dark Tides"
 
-## 2.2.0 October 23, 2025 — ???
+## 2.2.1 November 17, 2025 — ???
+
+— Some bugfixes (just look at the damn diff file)
+
+— Chapter 5 Season 3 updates~! (some new dialogue, stuff...)
+
+## 2.2.0 October 23, 2025 — November 16, 2025
 
 — October Devlog! My Battery Rose, IDK what that means but it cool 'pokemon nuzlocke platinum and zubat shenanigans'
 
