@@ -1,8 +1,16 @@
-# DeltaRambles: "Version Update" 
+# DeltaRambles: "Version Update"
 
-## 2.2.x October 23, 2025 "Dawn Breaks on Dark Tides"
+## 2.3.x November 26, 2025 — ??? "The Golden Coasts of Nuevo Leon"
 
-## 2.2.1 November 17, 2025 — ???
+## 2.3.0 November 26, 2025 — ???
+
+— CHAPTER 5 SEASON 1 FINAL RELEASE!!!!
+
+— New M/R Chapter, C9: The Haunted Hope
+
+## 2.2.x October 23, 2025 — November 25, 2025 "Dawn Breaks on Dark Tides"
+
+## 2.2.1 November 17, 2025 — November 25, 2025
 
 — Some bugfixes (just look at the damn diff file)
 
