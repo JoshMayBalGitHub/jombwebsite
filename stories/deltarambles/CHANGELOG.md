@@ -2,7 +2,13 @@
 
 ## 2.3.x November 26, 2025 — ??? "The Golden Coasts of Nuevo Leon"
 
-## 2.3.0 November 26, 2025 — ???
+HAPPY NEW YEAR!!! 🎄🎆⛓️🪚🎄🎆⛓️🪚🎄🎆⛓️🪚🎄🎆⛓️🪚🎄🎆⛓️🪚
+
+## 2.3.1 January 01, 2025 — ???
+
+— END OF YEAR: BLACK CHRISTMAS DC!
+
+## 2.3.0 November 26, 2025 — December 31, 2025
 
 — CHAPTER 5 SEASON 1 FINAL RELEASE!!!!
 
