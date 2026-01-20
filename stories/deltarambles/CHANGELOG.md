@@ -4,7 +4,15 @@
 
 HAPPY NEW YEAR!!! 🎄🎆⛓️🪚🎄🎆⛓️🪚🎄🎆⛓️🪚🎄🎆⛓️🪚🎄🎆⛓️🪚
 
-## 2.3.1 January 01, 2025 — ???
+Happy Birthday, to a certain fiery person that gave me that J and pink dreamcatcher~ | January 16
+
+## 2.3.2 January 21, 2025 — ???
+
+— Three Identities, Three Faces spinoff, about identity crises and badass fight scenes
+
+— Over three years spinoff, about relationships across years
+
+## 2.3.1 January 01, 2025 — January 20, 2025
 
 — END OF YEAR: BLACK CHRISTMAS DC!
 
