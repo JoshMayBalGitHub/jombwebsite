@@ -1,12 +1,30 @@
 # DeltaRambles: "Version Update"
 
-## 2.3.x November 26, 2025 — ??? "The Golden Coasts of Nuevo Leon"
+## 2.4.x February 16, 2026 "Onwards, Towards the Full Moon"
+
+Happy Valentines Day!!! Romance shine through!! (here!) ❤️💖💓🫀🍫💐🧸!!
+
+## 2.4.0 February 16, 2026 — ???
+
+— New February Devlog + Metapsilon Archives! (archive of old stuff historically important)
+
+— Moved old Random & CProposals to Metapsilon, merged their function into CProposals V2!
+
+— Three New Spinoffs! One about Rhida and Mijo, one is Mijo and his History, and the last one is about Valentines!
+
+— The spinoff titles being: 'Over Three Years', 'Happy Ever-After?', and 'Valentine's Dilemma'!
+
+## 2.3.x November 26, 2025 — February 15, 2026 "The Golden Coasts of Nuevo Leon"
 
 HAPPY NEW YEAR!!! 🎄🎆⛓️🪚🎄🎆⛓️🪚🎄🎆⛓️🪚🎄🎆⛓️🪚🎄🎆⛓️🪚
 
-Happy Birthday, to a certain fiery person that gave me that J and pink dreamcatcher~ | January 16
+Happy Birthday, to a certain fiery person that gave me that J and pink dreamcatcher~ | January 16 
 
-## 2.3.2 January 21, 2025 — ???
+Happy Found Day to the city of something, idk. Just important stuff? | February 03
+
+Happy Valentines Day!!! Romance shine through!! (the actual stuff though will be the next version, ehe~)
+
+## 2.3.2 January 21, 2025 — February 15, 2026
 
 — Three Identities, Three Faces spinoff, about identity crises and badass fight scenes
 
