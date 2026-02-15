@@ -17,7 +17,7 @@ christmas - december (and or vacation during the "ber" months: September, Octobe
 function eventbutton() {
     window.location.href = "christmas.html";
 }
-// Go to intro.html, duh! But please this is not good can someone change this? - Joshua 21 April 2023
+// Go to intro.html, duh! But please this is not good can someone change this? - jmb 21 April 2023
 function introbutton() {
     window.location.href = "intro.html";
 }
@@ -27,10 +27,16 @@ function indexbutton() {
     window.location.href = "index.html";
 }
 
-// Go to navigator.html, duh! But please this is not good can someone change this? - Joshua 19 June 2023
+// Go to navigator.html, duh! But please this is not good can someone change this? - jmb 19 June 2023
 function navbutton() {
     window.location.href = "navigator.html";
 }
+
+// This is used to go back to navigator, archive edition! Yes, this is stupid, help me fix it then. - jmb 03 Feb 2026
+function navbutton2() {
+    window.location.href = "../../navigator.html";
+}
+
 // Used in FAQ hidden text
 // This function is used to make text not hide when the user clicks on it.
 function Unhide2() {

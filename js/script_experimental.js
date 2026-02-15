@@ -10,7 +10,7 @@ function MouseClickTest() {
 function BPJ() {
     window.location.href = "index.html";
 }
-// TO INDEX BUTTONS TODO: pls fix
+// TO INDEX BUTTONS TODO: pls fix | idk how the hell to do that, just ask anyone else??
 function gohome() {
     window.location.href = "../index.html";
 }
@@ -18,6 +18,16 @@ function gohome() {
 function gohome_more() {
     window.location.href = "../../navigator.html";
 }
+
+function gohome_archive() {
+    window.location.href = "../SSDR-TMEA.html";
+}
+
+// temp fix??
+function archivenav() {
+    window.location.href = "SSDR-TMEA.html";
+}
+
 
 function gohome_less() {
     window.location.href = "../navigator.html";

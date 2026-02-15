@@ -85,3 +85,14 @@ Dropdown Navbar
 .show-ddcont {
     display: block;
   }
+
+/*/////////////////
+Miscellaneous Custom Styling
+//////////////////*/
+
+.button-sty-DC {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
