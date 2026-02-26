@@ -4,7 +4,13 @@
 
 Happy Valentines Day!!! Romance shine through!! (here!) ❤️💖💓🫀🍫💐🧸!!
 
-## 2.4.0 February 16, 2026 — ???
+## 2.4.1 February 26, 2026 — ???
+
+— C6S3: Trans-Kultima Highways is published! Featuring a certain Lady of the Flowers~
+
+— CProposals V2 had 4 ideas added, go check them out!
+
+## 2.4.0 February 16, 2026 — February 25, 2026
 
 — New February Devlog + Metapsilon Archives! (archive of old stuff historically important)
 
