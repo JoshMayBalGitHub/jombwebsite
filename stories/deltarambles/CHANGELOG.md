@@ -4,7 +4,21 @@
 
 Happy Valentines Day!!! Romance shine through!! (here!) ❤️💖💓🫀🍫💐🧸!!
 
-## 2.4.1 February 26, 2026 — ???
+Happy EDSA Revolution Day!! Yeah..! Never Forget, Never Again.
+
+Happy Foundation Week, Food Fest, Battle of Bands, and Family Day to the School!
+
+## 2.4.2 February 28, 2026 — ???
+
+— Fixed Archival Bugs related to styling issues (ran-stories-old, cproposals-old)
+
+— Fixed **some** Navigation issues (hyperlinking smooth scrolling can finally begin again)
+
+— New Spinoff, Fight, Fight, Fight? Somewhat important lore!
+
+— Moved some old spinoffs to the archive to make way for new more important ones to be visible!
+
+## 2.4.1 February 26, 2026 — February 27, 2026
 
 — C6S3: Trans-Kultima Highways is published! Featuring a certain Lady of the Flowers~
 
