@@ -8,7 +8,17 @@ Happy EDSA Revolution Day!! Yeah..! Never Forget, Never Again.
 
 Happy Foundation Week, Food Fest, Battle of Bands, and Family Day to the School!
 
-## 2.4.2 February 28, 2026 — ???
+Happy MARCH 7!!! ❤️🖤🩷🩷❤️❤️🖤🩷🩷❤️🖤🖤🖤❤️🩷🖤 I love Evernight/March 7th of HSR!!!
+
+## 2.4.3 March 12, 2026 — ???
+
+— Slight edits on some pages (C6S3, spinoffs, cproposals)
+
+— Publishing fully of C5S3: The Blazing Sun, ENJOY!!!
+
+— March Devlog: Turbulent TImes Ahead, OUT NOW!!!!
+
+## 2.4.2 February 28, 2026 — March 11, 2026
 
 — Fixed Archival Bugs related to styling issues (ran-stories-old, cproposals-old)
 
