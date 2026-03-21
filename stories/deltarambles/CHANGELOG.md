@@ -10,13 +10,21 @@ Happy Foundation Week, Food Fest, Battle of Bands, and Family Day to the School!
 
 Happy MARCH 7!!! ❤️🖤🩷🩷❤️❤️🖤🩷🩷❤️🖤🖤🖤❤️🩷🖤 I love Evernight/March 7th of HSR!!!
 
-## 2.4.3 March 12, 2026 — ???
+## 2.4.4 March 21, 2026 — ???
+
+— Added some small texts in S3, modified some meta-context in spinoff, and reorganized stuff in the jmb navigator...
+
+— Two new ideas in CProposals! (VSP-C7S3 concepts, parental ideas)
+
+— New spinoff! (My Country, Survives!)
+
+## 2.4.3 March 12, 2026 — March 20, 2026
 
 — Slight edits on some pages (C6S3, spinoffs, cproposals)
 
 — Publishing fully of C5S3: The Blazing Sun, ENJOY!!!
 
-— March Devlog: Turbulent TImes Ahead, OUT NOW!!!!
+— March Devlog: Turbulent Times Ahead, OUT NOW!!!!
 
 ## 2.4.2 February 28, 2026 — March 11, 2026
 
