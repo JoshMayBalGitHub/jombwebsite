@@ -1,8 +1,18 @@
 # DeltaRambles: "Version Update"
 
-## 2.4.x February 16, 2026 "Onwards, Towards the Full Moon"
+## 2.5.x April 01, 2026 — ??? "The Foreboding Waves of the Future"
 
-Happy Valentines Day!!! Romance shine through!! (here!) ❤️💖💓🫀🍫💐🧸!!
+Happy April Fools! (and Holy Week of Roman Catholic Chritianity!)
+
+## 2.5.0 April 01, 2026 — ???
+
+— added drafts of dajovy texts, 
+
+— added new spinoff (The Forgotten's Dream)
+
+## 2.4.x February 16, 2026 — March 31, 2026 "Onwards, Towards the Full Moon"
+
+Happy Valentines Day!!! Romance shine through!! (here!) ❤️💖💓🫀🍫💐🧸!! — March 31, 2026
 
 Happy EDSA Revolution Day!! Yeah..! Never Forget, Never Again.
 
@@ -10,7 +20,7 @@ Happy Foundation Week, Food Fest, Battle of Bands, and Family Day to the School!
 
 Happy MARCH 7!!! ❤️🖤🩷🩷❤️❤️🖤🩷🩷❤️🖤🖤🖤❤️🩷🖤 I love Evernight/March 7th of HSR!!!
 
-## 2.4.4 March 21, 2026 — ???
+## 2.4.4 March 21, 2026 — March 31, 2026
 
 — Added some small texts in S3, modified some meta-context in spinoff, and reorganized stuff in the jmb navigator...
 

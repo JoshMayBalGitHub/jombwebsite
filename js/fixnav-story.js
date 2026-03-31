@@ -2,6 +2,7 @@
 // I dunno. but it waits for page to load, 
 // then it simply listens then looks for hash (#), then once the hash is used to do something, do it but after 50 seconds
 // Crazy right? IDK why this needed to be used, but.. welp, it's working so.. that's the end of it. — jmb~ | February 28, 2026 
+// doesn't work occasionally??? if there are two md-block js, it just breaks..??? — jmb~ | March 21, 2026
 window.addEventListener('load', () => {
   if (location.hash) {
     const target = document.querySelector(location.hash);

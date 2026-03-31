@@ -6,7 +6,13 @@ HAPPY NEW YEAR!!! 🎄🎆⛓️🪚🎄🎆⛓️🪚🎄🎆⛓️🪚🎄🎆
 
 Happy Birthday, to a certain fiery person that gave me that J and pink dreamcatcher~ | January 16
 
-## 1.0.2 February 06, 2026 — ???
+## 1.0.3 April 01, 2026 — ??? 
+
+— Chapter 4 otw! (first half of Katana Man Arc)
+
+— Chapter 3 done! (War and Chainsaws)
+
+## 1.0.2 February 06, 2026 — March 31, 2026
 
 — Chapter 3 otw! (second half of Eternity Devil Arc)
 
