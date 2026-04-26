@@ -4,9 +4,9 @@
 
 Happy April Fools! (and Holy Week of Roman Catholic Chritianity!)
 
-## 2.5.0 April 01, 2026 — ???
+## 2.5.0 April 01, 2026 — April 26, 2026
 
-— added drafts of dajovy texts, 
+— added drafts of dajovy texts
 
 — added new spinoff (The Forgotten's Dream)
 
