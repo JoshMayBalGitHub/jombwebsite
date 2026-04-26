@@ -4,6 +4,16 @@
 
 Happy April Fools! (and Holy Week of Roman Catholic Chritianity!)
 
+Happy Honkai: Star Rail Anniversary! (April 26!)
+
+## 2.5.1 April 27, 2026 — ???
+
+— rewrites to earlier chapters of season 3
+
+— April Devlog: Calm, Hotness and Festivals, OUT NOW!!!
+
+— new chapter in season 3, focusing on an epilogue (i wasn't going to release it, but figured no one cares anyway)
+
 ## 2.5.0 April 01, 2026 — April 26, 2026
 
 — added drafts of dajovy texts
