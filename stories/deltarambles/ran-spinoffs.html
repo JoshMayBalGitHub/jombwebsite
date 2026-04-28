@@ -6,7 +6,7 @@
     <script src="../../js/script_experimental.js"></script>
     <script src="../../js/sticky-navbar.js"></script>
     <script src="../../js/fixnav-story.js" defer></script>
-    <script type="module" src="https://md-block.verou.me/md-block.js"></script>-->
+    <!--<script type="module" src="https://md-block.verou.me/md-block.js"></script>-->
     <script type="module" src="md-block-mod.js"></script> <!--TODO: TEMP FIX PLEASE UPDATE TO LEAH VERSION ONCE MERGED-->
     <link rel="stylesheet" href="../../cs/style_stories.css" />
     <link rel="icon" type="image/x-icon" href="../../img/jomb-favicon.ico">
@@ -17,10 +17,10 @@
         <div class="div-center-ver2">
             <!--IDK like better categorization..? 
             TODO: Maybe categorize where the spinoffs are meant to be interpreted in?-->
-        <div class="dropdown-content" id="js-ddcont">
-            —————————————————————
-            <md-block> _Pre-Main Story:_
-            <a href="#CS1">DeltaRambles: An Everyday Dark</a>
+        <div class="dropdown-content" id="js-ddcont"><md-block>
+            —————————————————————<br><br>
+            _Pre-Main Story:_
+            <a href="#CS1">DeltaRambles: Late Night Programming Session</a>
             —————————————————————<br><br><!--TODO: temp separator, please fix thank you-->
             _Season 2: G9 Arc (C1-4S2)_
             <a href="#GS1">DeltaRambles: It's Magic Time </a>
@@ -45,197 +45,62 @@
         </div></div></div></md-block>
         <br><a href="#bottom-rda" id="top-rda">Go to Bottom</a>
 <md-block>
-<!--FEB 29 SPINOFF FUN SHORT LORE BREAK-->
-<p id="CS1"><md-block># DeltaRambles: An Everyday Dark</md-block></p>
+<!--May 03 SPINOFF FUN SHORT LORE BREAK and actually fr fr-->
+<p id="CS1"><md-block># DeltaRambles: Late Night Programming Session</md-block></p>
 
-Author's Note: Takes place after Season 1, I am not sure whether it's canon or not since I am still developing it but that's why it's here, as a fun spinoff for a day. Take any names / plot points here as consideration but not concrete. Anyways, enjoy and see you when I see you!
+---
 
-Summary: A example of the daily life of Mijo, a student from Honrato Pez and a proficient dark swordmaster.
+_May 03, 2023, 17:30, Light World, Mijo's House, Mijo's Room_
 
-*ALARM RINGING*
+Mijo is obsessively typing on his membrane keyboard while he rambles about something related to the laptop's screen which indicates he's working on an app, specifically an app that uses markdown as the format and is an editor for it. Mijo's room is a barren room that has an old aircon from way before that has yellowed out, the walls are pink, and there is but a closet blocking him from full view outside of the open window and door. He has a carpet that prevents the degradation of the cement floor coloured red and has a bed that just about fits. The walls are fully cement except the side where the door and window are, and he almost always uses the aircon in emergency conditions when the lone electric fan isn't enough. Mijo is wearing black pants, glasses and a dark blue shirt.
 
-"Ughhh, its... time." said Mijo as he slowly turns off the alarm, and rests for a minute.
+"Come on, seriously?" Mijo looks at this laptop's screen and sighs. "Why is there... an error here?? Ugh, I don't get it." Mijo re-reads the debug logs and tries to add an entry to the app's menu properly. "If I add an entry here," Mijo writes some C++ code. "then format the text weirdly so it makes sense for the build system..." Mijo modifies the string entry. "Then... maybe add the hook for the translation's string, so it can be modified by it.." Mijo checks the code again. "I know that this set of functions is hacky, because it's completely different and should be setup in the other function that setup's the actions that uses the functions but..." Mijo goes to his computer's terminal and types `make` in the build directory of his project. "..no one's here to *care* anyway, right? If it works, it works!"
 
-"Nak, Time to eat na!" said May, his mother, calling him for breakfast.
+`The program has built successfully..!`
 
-"Coming!" said Mijo before he grabs his phone, turns off his night light then went out of his shared room.
+"Okay.." Mijo checks the program, by entering it's name into the terminal and seeing a bunch of warning messsages and info about certain libraries used before it opened. "Great, but I have another issue I should fix, it's that stupid bug that just... crashes the software if I don't use the specific environmental variables that I'm currently using for my gpu's rendering the preview of the formatted document."  Mijo checks the code. "Ughh.. this is *so* complicated. I wish someone documented this, but I *did not* create this myself. Otherwise, I'd spend half of my time writng the **damn** documentation.." Mijo scratches his head. "Where do you even go and do that? Uhh..." Mijo goes into the main source code folder of his project and types '`ls`'.
 
-"So anak, we have the usual and.. PE today or no?" said May, as she cooks over in the kitchen.
+`appactions.cpp bookmark.cpp documentmanager.cpp folderviewwidget.cpp library.h    mainwindow.cpp  messageboxhelper.cpp  outlinewidget.h  sidebar.cpp timelabel.h [...]`
 
-"PE!" said Mijo, as he eats hotdog and eggs, watching some video on his phone.
+"Ah wait, I forgot to include folders.." Mijo retypes the command, '`ls -ld -- */`'.
 
-After eating, he decides to shower and grabs his towel from outside and goes to the bathroom. He cleans, and bathes himself then turns the shower off as he grabs his towel and heads to his shared room in which he alone, dressed with his PE Uniform, then he goes to the living room to wear his shoes. Then he grabs his I.D., facemask and sling bag, before going out of his home to see his father on their motorized tricycle.
+`drwxr-xr-x 3 mijonovo mijonovo 4096 May 03 17:41 editor/`
 
-"O nak, you have everything? Your assignment, your phone, your money?" said June, his father.
+`drwxr-xr-x 2 mijonovo mijonovo 4096 May 03 18:45 export/`
 
-"Yes, yeah. Let's go!" said Mijo, as he went inside the tricycle and they drove to school.
+`drwxr-xr-x 2 mijonovo mijonovo 4096 May 03 17:41 markdown/`
 
-He sees the landscape of Cab City, his hometown, one of the more populated ones in fact. They drove until his father dropped him off near the school, due to the traffic. They both said goodbye to each other and then Mijo went inside the school. As he walked to his class upstairs at the 2nd floor, he sees Urda with Reeb talking, he sees Rhida and Mack walking around, he sees Lauvielle and Leviente arguing and then he sees JR and Dombat talking about something as he goes inside the room, that is now a dark world, as he sees Ikari, practicing firing in his left.
+`drwxr-xr-x 2 mijonovo mijonovo 4096 May 03 18:26 preview/`
 
-"Where's the school decoy? I thought Jomi had just finished remaking it..?" questioned Mijo as he talks to Ikari.
+`drwxr-xr-x 2 mijonovo mijonovo 4096 May 03 17:41 settings/`
 
-"Weellll, there's a reason why they're outside. It's not done yet for some reason, go ask her." said Ikari, before perfectly headshotting 5 dummies.
+`drwxr-xr-x 2 mijonovo mijonovo 4096 May 03 17:41 spelling/`
 
-"Uh, ok..?" said Mijo before he walked off to Jomi's Castle in which he found Jomi modifying some floating room next to the inside of her castle.
+"There! Maybe in the preview folder..." Mijo goes into the folder and searches until he finds the source code file for the preview. "Okay... hmm.." Mijo shakes his head. "W—wait, it's gotta be here somewhere right?!" Mijo groans and opens his browser to search. "How to fix blabla..." Mijo searches through forums, issues and merge requests until he finds *something.* "Wait, I *have* this error. Hold on." Mijo tests his app by opening two instances of it and closing one window, only to crash both of it. "**Damn it...!!!!**" Mijo goes and tries the code solution, builds it, fails. "What?" Mijo checks the error message, something about `"expected constructor, destructor, or type conversion before '{' token".` Mijo double checks his code, retypes it, and combs through the code to see if there would be problems, builds it, it works. "Ah, finally! Now, to.. figure out what that changed..." Mijo brushes through the code again, searches for what exactly is causing the preview crash.
 
-"So, how's progress? You know that this staying open depends on you right?" said Mijo, as he looks to the room.
+"I mean.. this disable-gpu thingy might have something to do with it, but how do you fix it?" commented Mijo, before going and searching how. After minutes of excruciating pages, issues, and discussions about web engines and enviromental variables pass-over to program, he got something of an idea and wrote something that *could* work as he goes and builds it, and runs it. "Okay, this ***should*** work. Ugh, it has been like what.." Mijo looks at the time on the centre top of his *KDE Linux* computer. "19:30..?!" Mijo sighs. "Fuck." Mijo continues to test the app, and finds the code doesn't work. He searches, finds a *little bit* of actual documentation about the GUI Toolkit's Web Engine's functions and tries them out, and after minutes of trial-and-error, when he finally could run it without crashing, he let's out a sigh of relief.
 
-"Yep, and.." said Jomi, before she finished the room and then she says, "that's why it's done! It just took a bit more time than what I wanted. Come on, go out. You'll see ou— my brilliance in programming!" said Jomi, as she looks at Mijo.
+"Ah, never ever going through that much *pain*, ever again." Mijo sighs and checks his messages, just as Urda messaged him:
 
-"Ok, I'll bring Ikari with me, then how would I know if it worked?" questioned Mijo, as he peers deeper into the room, seeing the teacher's table, the arranged chairs and the whiteboard as same as it is in the light.
+*Mijo and Urda's DM Conversation Box has a blank background and there's a pinned reaction image of a sonic meme.*
 
-"Just go in again, then you'll see the room! A note though, if you want to explore outside, you'll have to get me and go outside of any door." said Jomi, now smiling a bit.
+weirdo gamer girl (Urda): Hey dude wanna play mvm tf2 tonight?? i gotta go to dinner first though
 
-"*Smirk* Ok, i'll go, then.." said Mijo, before he left the castle walls and brought Ikari with him to the light world.
+silent dora (Mijo): ah sure just message me when youre online on steam
 
-"Huh? It's done, Mijo? Whew, because it's almost time!" exclaimed JR, as he stood near the door with the other 9-Lit.
+Urda: ok (Mijo reacted with ⚙️)
 
-"Yeah, you all can go in now, don't forget that everything there is simulating the real thing so good luck!" said Mijo, as his classmates go in, he sees the brilliant seemless transition from the door, the windows to the one in the dark world.
+"Ah well.. I guess I should—" Mijo is interrupted by his mother, May knocking on his door and staring at him at the open window. "'Nak, kain na!" she says, as Mijo sighs and nods. "Yeah, yeah sarado ko lang to..." Mijo looks at her before looking at his computer and shutting it down before standing up from his barely operating cheap swivel chair and walking to the living room.
 
-"Hey, let's go in already, look!" said Ikari, as she pointed to Mam Mely Sant, their adviser.
+---
 
-As they entered they saw that, through the day without a hitch, Jomi's creation worked as the teachers didn't notice a single thing.
+## Author's Note:
 
-"Wow, this works, I didn't think it would.." whispered Mijo to Ikari, looking happy.
+So, that's a brief look into Mijo pre-Dark World! I know you might be a *little* starved for Dark World pre-Mijo history, but as of right now, I am working on Season 3, and I don't got much time to do lore-heavy stuff that isn't directly related to that, so I just wanted to treat you guys to something chill and fluff, as well as to fill this entry so I could potentially expand it. Anyways, goodbye~!
 
-"Yeah i know right, anyways we gotta do this activity so..." said Ikari before returning to their previous topic.
+— jmb~ | April 28, 2026 | 21:57 | 💻0️1️👩‍💻 |
 
-As the days past, even many non 9-Lit were surprised such as Urda, Rhida, and even Leviente. After a lot of 'boring' school, class was dismissed.
-
-"Finally, whew.. and we have to do this for next week too?! Ugh, it's honestly ridiculous on how we have so many worlds outside of that door and we have to wait at least until next next week before we can do anything in school hours.." ranted Mijo to Ikari, as she checked her phone.
-
-"Even data works here, I'm guessing because it's more enclosed than the average dark world? Oh well, it's time to go home anyway and.. hey have Jomi told you if we can go out of here?" said Ikari back, as she looked at Mijo.
-
-"Oh yes actually, it's just this pink notebook, as long as it is outside with me, anyone can go out of the room and into the true dark world." said Mijo as JR and Lauvielle join in.
-
-"Wait so it's like a key or something?" questioned Lauvielle, as they see Mijo bring out the pink notebook.
-
-"Hmm, hey Mijo, what if we are outside the room then somebody enters, will they be put in the room or outside?" speculated JR, as they now think a bit more.
-
-"Uh, I know.. I can see the look in your faces, it's not perfect, but it can work. As for your question, they go wherever the pink notebook is." explained Mijo, as he looked at the group, then at JR.
-
-"Ok, so it's basically like an anchor, fine." said JR, now waiting for Mijo.
-
-"Ok, do y'all want to explore Jomi's town?" questioned Mijo, as he went near the door.
-
-"Yes! That's where my training gear is!" said Ikari, with an affirmative look.
-
-"That is also where I keep my multitude of staffs and other books, y'know for adventure?" said JR, with a stern look.
-
-"Yeah, i wanna talk to some of the people there! I wanna catch up with Shley and Brna! See how they're doing!" said Lauvielle excitedly.
-
-"Ok, it is decided, come on guys!" said Mijo as the group went outside with the pink notebook teleporting to the outside.
-
-And so everybody went outside, having fun.
-
-Mijo - currently fighting some monsters in a training ground built by him and Jomi after CS1, to make it more interesting he often switches weapons.
-
-Jomi - managing the town, occasionally greets the others.
-
-JR - at Jomi's library, reading some books for new spells and occasionally goes to the training ground and tries out new spells.
-
-Ikari - at the shooting range, near the training ground. Practicing her aim and talking to Lauvielle on a temporary phone that Jomi made to offset communication loss.
-
-Lauvielle - walking around Jomi's town, talking and meeting with the people there as she has Ikari on her temporary phone.
-
-
-*Rewind to MAPEH Practice #?? Alt #??*
-
-"Eh, where can we practice?! We probably can't use the school and all the locations are expensive, what can we use that first, doesn't cost much, and without interference from the school?" questioned JR, as the class discussed places to meet up and practice.
-
-"Hmm, Luzca is a fine place, that's where I live nearby.. It is the least expensive, but it's not cheap." said Laha, an old friend of Mijo from elementary now here.
-
-"Wait! Guys, uh.. JR, can we discuss some 'ark' privately?" questioned Dombat, looking at JR intently.
-
-"Huh— Oh, uh sure." responded JR, understanding the hidden codeword.
-
-So they went to where Mijo and Ikari were chilling and talked.
-
-"So, 'di ba Mijo can make, like awesome dark worlds, so what if we make that our practice ground? Like, after december, almost lahat naman knows what's up with the dark world, so if we use it, we have more space! Now we just have to ask Mijo and _especially_ Jomi on the technical details." said Dombat, as Mijo also listened in.
-
-"Hmm, you are right, but where should this be? As Mijo explained during the previous grade, it has to be made from a place here. So we still have to have an anchor from the light to the dark." responded JR, now getting the attention of Ikari who was half-asleep earlier.
-
-"For it to be Jomi's Castle, we probably need it to be in our classroom." said Mijo, now joining in the convo.
-
-"But, the reason we're talking about it is that we can't be in school, and besides that, we don't even have a way of.. the internet!" explained JR, with a concerned expression.
-
-"I.. have a way. Tell them to go to my house. I have an idea, make a dark world in a student's house and go there, my house might be small but the endless dark isn't." said Mijo, going for a bold plan.
-
-"Whaat?! Mijo, that might just work! I mean, from what I understand at least." said Ikari, also now here.
-
-"Hmm, are you sure? Your house, it's an entirely new world." said JR, now neutral, thinking about the possibilities.
-
-"I... uh have been there. I'll contact.. hmm, actually. I can do it by myself just fine." said Mijo, as he thinks about the previous time he was there.
-
-"Ok, we trust you on this, JR, let's go." said Dombat as she and JR went back with the other group.
-
-*Rewind to Jomi's Castle, one saturday afternoon..*
-
-Mijo is practicing with a claymore, killing a bunch of dummy monsters before Jomi comes and greets Mijo.
-
-"Hi Mijo! I see you.. have something on your mind?" questioned Jomi, as she sees Mijo break the claymore accidentally, then pick up another one.
-
-"Uh... No point in hiding no? Well _yes..._" answered Mijo, now stopping and looking at Jomi.
-
-"Mhm, yep. So, what is it? Honestly, you should probably talk to someone, *other* than me. Because.. you get it now.." said Jomi, now spawning some monsters.
-
-"Ugh, well.. this. one. is for. my own reflection." said Mijo, as he swiftly defeats the monsters with his claymore.
-
-"Ok, so what is it? Tell me, like every saturday this happens.." said Jomi, as she summons more harder monsters.
-
-"Hmmph, well it's just this practice. It's been buggin' me ever since we started to prepare and practice for the MAPEH Demo." explained Mijo, as he struggled against the monsters.
-
-"This? Are you referring to the MAPEH or this whole dark world thing?" questioned Jomi, as she helped Mijo with some monsters with her katana.
-
-"Hmm, I come here willingly, a part of my exercise routine, you don't just get a whole world to not go to it, right? But, MAPEH has been eating away at my life, as it uses every free time I have in school, practicing. You don't see it because it's contained within the fake classroom, but it's there." explained Mijo, as he now defeats the monsters, and sits down.
-
-"I guess you feel tired, but why come here? You could just be watching videos but instead you're practicing, like what you despise in MAPEH?" questioned Jomi as she also sits down.
-
-"Huh, that's what's been troubling me, how can I have completely different attitudes for different practices even though the end goal is somewhat the same and I also like dancing, so why would I hate it?" said Mijo, as he picks up a halberd and summons monsters himself.
-
-"Hmm, could it be that you hate having no choice? I know us, given the choice, you would not dance, even though you like it. But you also hate getting corrected, right?" said Jomi, as she watches Mijo practice his polearm techniques.
-
-"Huh, I.. agree. I just wished that the mandatory dance thing didn't have to happen, Mijo, you know how? Like how quizzes are now domains? " questioned Mijo to Jomi.
-
-"Hmm now that depends on your classmates honestly, you will still not be performing, but your grades will be fine." said Jomi, now looking closely at Mijo's halberd.
-
-"Ugh, is it bad that I am asking for some dark abyss stuff to start happening? Or anything that I don't have to convince them to do, like anything of the students night but without all of the saving the world burden?" said Mijo, now picking up a bow and using it to spawn the monsters.
-
-"This is a world with magic, but it has rules y'know? You could start it yourself but after the previous grade, no one dares to provoke you, me or even some of the former M8-Clam members.." said Jomi, as she unsheathes and looks at her sword.
-
-"M8-Clam? Hah, a good name for its time.. I just.. need.. I honestly don't know, I've been looking for a good adventure but I've also been reminded of my past so I'm conflicted there too!" said Mijo, as he starts practicing with the bow, missing some shots.
-
-"Let's get back to the point, have you thought about enjoying the process? Remember your *own* quote? 'No lows, no highs'?" questioned Jomi, as she stood back up and summoned more monsters.
-
-"Yes, i do. I.. know that is true, and I ask for more, so yes, it's a contradiction. Honestly, sure. As long as I master my swordsmanship and keep practicing, I should be good. After all, I lost weight, and became a proficient fighter, so I am much better than my previous self, so I should continue to be positive, and yet acknowledge problems when they come up. Ok, I am clear about this, thanks Jomi." said Mijo, as he picked up his sword and picked the hardest monster.
-
-"Always welcome, well I am guessing you're good so, see ya'! I got important government matters to deal with.." said Jomi, as she left the training ground, leaving Mijo behind.
-
-"Bye! Now onto you, shadow of Jomi!" shouted Mijo, as he fights a clone of Jomi that they made after their fight at the start of the previous grading.
-
-"Hehe, *You shall.. die!* " said Mijo, as he does his signature Freedom Cut and slashes through the world, breaking glasses appear as the clone suddenly gets a lot of cuts and is weakened.
-
-"Now, let's end this!" shouted Mijo as he finished the clone, resulting in it disappearing and him feeling tired.
-
-"Now, I am the one with power!" said Mijo, as Jomi returns with some stamina foods.
-
-"Figured might as well drop by and give some, oh and I heard you say that, that's a DMC reference— jeez actually your entire kit is a DMC reference." said Jomi as she drops off some stamina foods.
-
-"Hey! It's a good game, there's a reason why I am good at this thing ok?" said Mijo, as Jomi laughed and left.
-
-"Ugh, well I am feeling tired, might as well eat." said Mijo as he sits down and eats.
-
-*End of Memory Fragment*
-
-"Huh, this is what you want recorded in the archives? Sure.. then." said Jomi as she put the fragment into the Delta Archives.
-
-"Yep, don't worry Jomi, this is just a test, I always wanted to see this." said Mijo as he inspected the Fragment.
-
-"Mhm, ok." said Jomi, as she updated the archives.
-
-*The end.*
-
-Author's Note: YES! After starting and ending a chapter this fast, this makes me want to just finish all of them in one go! Hehe, just joking. Anyways, so that's it, I just wanted to imagine how Mijo goes about his everyday life but then it turned into a backstory about how that would work and how school still exists.. So that's it, thanks for reading this special spinoff and see you soon!
+---
 
 <!--S1-S2 Boundary // SEPARATOR VISILIBTY SEPARATOR VISILIBTYSEPARATOR VISILIBTYSEPARATOR VISILIBTYSEPARATOR VISILIBTYSEPARATOR VISILIBTYSEPARATOR VISILIBTY-->
 <!--S1-S2 Boundary // SEPARATOR VISILIBTY SEPARATOR VISILIBTYSEPARATOR VISILIBTYSEPARATOR VISILIBTYSEPARATOR VISILIBTYSEPARATOR VISILIBTYSEPARATOR VISILIBTY-->

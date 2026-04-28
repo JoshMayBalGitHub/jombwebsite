@@ -6,7 +6,17 @@ Happy April Fools! (and Holy Week of Roman Catholic Chritianity!)
 
 Happy Honkai: Star Rail Anniversary! (April 26!)
 
-## 2.5.1 April 27, 2026 — ???
+## 2.5.2 April 29, 2026 — ???
+
+— new spinoff that has a Mijo chilling with programmming before the dark world~
+
+— edited the formatting of the season 3 chapter involving the journey after dark
+
+— moved 'an everyday dark' to the archives
+
+— update the update date and time of various pages
+
+## 2.5.1 April 27, 2026 — April 28, 2026
 
 — rewrites to earlier chapters of season 3
 
