@@ -6,7 +6,15 @@ Happy April Fools! (and Holy Week of Roman Catholic Chritianity!)
 
 Happy Honkai: Star Rail Anniversary! (April 26!)
 
-## 2.5.2 April 29, 2026 — ???
+## 2.5.3 May 08, 2026 — ???
+
+— new **main chapter!!** chapter 7: vesalius showdown party season 3!
+
+— new mizo/rika chapter 10! mostly fluff, and only 2 new sections
+
+— clarify a section in navigator.html
+
+## 2.5.2 April 29, 2026 — May 08, 2026
 
 — new spinoff that has a Mijo chilling with programmming before the dark world~
 
