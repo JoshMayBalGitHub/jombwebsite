@@ -6,7 +6,13 @@ Happy April Fools! (and Holy Week of Roman Catholic Chritianity!)
 
 Happy Honkai: Star Rail Anniversary! (April 26!)
 
-## 2.5.3 May 08, 2026 — ???
+## 2.5.4 May 19, 2026 — ???
+
+— new may devlog: Vacation's Exploration and Looming Deadlines, out now!!!
+
+— edited some mistakes in Season 3's Chapter 7
+
+## 2.5.3 May 08, 2026 — May 18, 2026
 
 — new **main chapter!!** chapter 7: vesalius showdown party season 3!
 
