@@ -1,5 +1,14 @@
 # Changelogs:
 ### [DeltaRambles Changelog](stories/deltarambles/CHANGELOG.md)
+
+---
+
+# Main Changelog 
+
+21 May 2026 - fixed intro's image, but not updated it's content. will do soon.
+
+---
+
 Note: the below is a ported one from the old wiki, also historical
 ## Website Version's History
 ### 0.01
