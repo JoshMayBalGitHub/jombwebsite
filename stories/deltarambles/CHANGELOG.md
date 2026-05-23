@@ -6,7 +6,13 @@ Happy April Fools! (and Holy Week of Roman Catholic Chritianity!)
 
 Happy Honkai: Star Rail Anniversary! (April 26!)
 
-## 2.5.4 May 19, 2026 — ???
+## 2.5.5 May 24, 2026 — ???
+
+— cleanup of development code that is now obsolete with localhost integration into workflow
+
+— delta archives v3 wiki in development
+
+## 2.5.4 May 19, 2026 — May 23, 2026
 
 — new may devlog: Vacation's Exploration and Looming Deadlines, out now!!!
 
