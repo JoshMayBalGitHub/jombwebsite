@@ -8,7 +8,7 @@ Happy Honkai: Star Rail Anniversary! (April 26!)
 
 ## 2.5.5 May 24, 2026 — ???
 
-— cleanup of development code that is now obsolete with localhost integration into workflow
+— cleanup of development code that is now obsolete with localhost integration into workflow, reorganize files
 
 — delta archives v3 wiki in development
 
