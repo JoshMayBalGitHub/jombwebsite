@@ -7,32 +7,20 @@ function MouseClickTest() {
     }
     document.getElementById("mcbutton").innerHTML = mct_NewValue;
 }
-function BPJ() {
-    window.location.href = "index.html";
-}
-// TO INDEX BUTTONS TODO: pls fix | idk how the hell to do that, just ask anyone else??
-function gohome() {
-    window.location.href = "../index.html";
+
+// the functons to fix all button functions (finally) - jmb | 24 May 2026 | 12:41 |
+
+function gohome_final(pageBase) {
+    window.location.href = pageBase + 'navigator.html';
 }
 
-function gohome_more() {
-    window.location.href = "../../navigator.html";
+function gohome_index(pageBase) {
+    window.location.href = pageBase + "index.html";
 }
 
-function gohome_archive() {
-    window.location.href = "../SSDR-TMEA.html";
+function gohome_archive(pageBase) {
+    window.location.href = pageBase + "SSDR-TMEA.html";
 }
-
-// temp fix??
-function archivenav() {
-    window.location.href = "SSDR-TMEA.html";
-}
-
-
-function gohome_less() {
-    window.location.href = "../navigator.html";
-}
-// TO INDEX BUTTONS todo: pls fix
 
 /*Kinda wish this is not what i have to do every darn time i have to link stuff* - fixed 21 May 2023*/
 function Unhide1() {
