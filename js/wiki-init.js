@@ -231,7 +231,7 @@ document.querySelectorAll('.nav-dropdown-title, li.has-submenu > a').forEach(lin
     { title: "Mizo", url: "wiki/characters/mizo.html" },
     // locations - lw
     { title: "Cab. City", url: "wiki/locations/cabcity.html" },
-    { title: "Fónti City", url: "wiki/locations/fonticity.html" },
+    { title: "Fónti City", url: "wiki/locations/fonticity.html", aliases: ["Fonti City"]},
     { title: "Honrato High", url: "wiki/locations/cabcity/honrato.html" },
     { title: "Saint Lucile", url: "wiki/locations/fonticity/saintlucile.html" },
     // locations - dw

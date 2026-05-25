@@ -1,5 +1,6 @@
 # Changelogs:
 ### [DeltaRambles Changelog](stories/deltarambles/CHANGELOG.md)
+### [DeltaRambles Changelog](stories/deltarambles/wiki/CHANGELOG.md)
 
 ---
 
