@@ -1,11 +1,3 @@
-// Most of these functions are to *literally* navigate to a page. Yes, this is stupid, no, I don't wanna fix it unless somebody makes the time and effort to do so.
-// If you don't use javascript personally, I get that, but if you really want to navigate my personal website without javascript, rework the website for me.
-// Otherwise, it'll literally stay the exact same, sorry, but I have as much time to work on this as on my writing, which is precariously little. - jmb | 24 May 2026 | 11:46 |
-
-// Go to experiment.html
-function experimentbutton() {
-    window.location.href = "experiment.html";
-}
 // This function is used to make text not hide when the mouse is over it.
 function Unhide1() {
     document.getElementById("hiddentext1").style.visibility = "visible";
@@ -14,23 +6,6 @@ function Unhide1() {
 function Hide1() {
     document.getElementById("hiddentext1").style.visibility = "hidden";
 }
-/* event button, change every time:
-school - default event
-christmas - december (and or vacation during the "ber" months: September, October, November and December)
-wait this can be done with a function that tracks the date right? I.. I am not doing that, this is for a page and button I don't use anymore. - jmb | 24 May 2026 | 11:46 */
-function eventbutton() {
-    window.location.href = "christmas.html";
-}
-// Go to intro.html, duh! But please this is not good can someone change this? - jmb 21 April 2023
-function introbutton() {
-    window.location.href = "intro.html";
-}
-
-// This is used to go back to home page.
-function indexbutton() {
-    window.location.href = "index.html";
-}
-
 
 // Used in FAQ hidden text
 // This function is used to make text not hide when the user clicks on it.
