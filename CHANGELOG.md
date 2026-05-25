@@ -5,6 +5,10 @@
 
 # Main Changelog 
 
+25 May 2026 - major refactoring part 2
+
+24 May 2026 - major refactoring and code cleanup
+
 21 May 2026 - fixed intro's image, but not updated it's content. will do soon.
 
 ---

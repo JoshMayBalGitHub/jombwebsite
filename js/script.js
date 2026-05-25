@@ -31,15 +31,6 @@ function indexbutton() {
     window.location.href = "index.html";
 }
 
-// Go to navigator.html, duh! But please this is not good can someone change this? - jmb 19 June 2023
-function navbutton() {
-    window.location.href = "navigator.html";
-}
-
-// This is used to go back to navigator, archive edition! Yes, this is stupid, help me fix it then. - jmb 03 Feb 2026
-function navbutton2() {
-    window.location.href = "../../navigator.html";
-}
 
 // Used in FAQ hidden text
 // This function is used to make text not hide when the user clicks on it.

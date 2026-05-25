@@ -1,5 +1,9 @@
-/* Mostly same but will soon change most likely */
+/*TODO: Feature request for dark and light mode. I dunno if I wanna do that yet, but I'll do it if someone asks. - jmb | 24 May 2026 | 12:35 */
 /*TODO: CSS File is a draft*/
+/*/////////////////*/
+/*High Level Styling*/
+/*/////////////////*/
+
 html {
     scroll-behavior: smooth;
 }
@@ -15,10 +19,6 @@ a {
     background: #cfb14e;
     list-style-position:inside;
 }
-.sticky-navbar {
-    top:0;
-    position:sticky
-    }
 /*/////////////////*/
 /*Nav Button Code*/
 /*/////////////////*/
@@ -51,126 +51,102 @@ button:hover .Buttons::after {
     opacity: 1;
     right: 0;
 }
-
-/*/////////////////
-Dropdown Navbar
-//////////////////*/
-.dropbtn { /*Probably change sa kinabukasan di ko alam...*/
-    cursor: pointer;
-    font-size: large;
-}
-.dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #D4BB6A;
-    min-width: 160px;
-    max-height: 200px;
-    overflow-x: hidden;
-    overflow-y: scroll;
-    
-}
-.dropdown-content a {
-    float: none;
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-
-  }
-
-.div-center-ver2 {
-    display: flex;
-    justify-content: center;
-}
-  
-.show-ddcont {
-    display: block;
-  }
-
 /*/////////////////
 Miscellaneous Custom Styling
 //////////////////*/
-
 .button-sty-DC {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 15px;
 }
-
-#searchResults a {
-  color: blue;
-  text-decoration: underline;
-  cursor: pointer;
+/*/////////////////
+Site Title
+//////////////////*/
+.site-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;   /* title left, search right */
+  flex-wrap: wrap;                  /* stacks on narrow screens */
+  gap: 1em;
+  background: #6b0549;
+  border-bottom: 1px solid #4b0433;
+  padding: 0.8em 1.2em;
+  margin-bottom: 1.5em;
 }
 
-/* ---------- Search Box & Results ---------- */
-#wikiSearch {
+.site-title {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #f700ff;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.site-title:hover {
+  color: #f94fff;
+}
+/*/////////////////
+Search Box & Results
+//////////////////*/
+/* The search wrapper inside the header */
+.header-search {
+  position: relative;
   width: 100%;
-  max-width: 400px;
-  padding: 0.6em 1em;
-  font-size: 1rem;
+  max-width: 200px;
+}
+
+.header-search #wikiSearch {
+  width: 100%;
+  padding: 0.5em 0.8em;
+  font-size: 0.95rem;
   border: 1px solid #ccc;
   border-radius: 6px;
   outline: none;
-  transition: border-color 0.2s, box-shadow 0.2s;
   box-sizing: border-box;
 }
 
-#wikiSearch:focus {
+.header-search #wikiSearch:focus {
   border-color: #4a90d9;
-  box-shadow: 0 0 0 3px rgba(74, 144, 217, 0.15);
+  box-shadow: 0 0 0 3px rgba(74,144,217,0.15);
 }
 
-#searchResults {
-  position: absolute;          /* float the dropdown */
+.header-search #searchResults {
+  position: absolute;
+  top: 100%;
+  left: 0;
   width: 100%;
-  max-width: 400px;
   max-height: 300px;
   overflow-y: auto;
   background: #fff;
   border: 1px solid #ddd;
   border-top: none;
   border-radius: 0 0 6px 6px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
   z-index: 1000;
   box-sizing: border-box;
 }
 
-#searchResults:empty {
-  display: none;              /* hide completely when empty */
-}
-
-#searchResults a {
+.header-search #searchResults a {
   display: block;
-  padding: 0.65em 1em;
+  padding: 0.6em 1em;
   color: #333;
   text-decoration: none;
-  font-size: 0.95rem;
   border-bottom: 1px solid #f0f0f0;
-  transition: background 0.15s;
-}
-
-#searchResults a:last-child {
-  border-bottom: none;
-}
-
-#searchResults a:hover,
-#searchResults a:focus {
-  background: #f5f8ff;
-  color: #1a1a1a;
-}
-
-#searchResults .no-results {
-  padding: 0.8em 1em;
-  color: #888;
-  font-style: italic;
   font-size: 0.9rem;
 }
 
-/* Optional: a tiny hint text under the search box */
-.search-hint {
-  font-size: 0.8rem;
+.header-search #searchResults a:hover {
+  background: #f5f8ff;
+}
+
+.header-search .no-results {
+  padding: 0.8em 1em;
   color: #888;
-  margin-top: 0.3em;
+  font-style: italic;
+}
+
+/* Hide results when empty */
+.header-search #searchResults:empty {
+  display: none;
 }
