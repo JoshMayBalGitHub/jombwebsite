@@ -56,4 +56,5 @@ updateButtonDisplay();
 // // Wait this can be done with a function that tracks the date right? I.. I am not doing that, this is for a page and button I don't use anymore. - jmb | 24 May 2026 | 11:46
 // jokes on you jmb! i have decided to fix it now! finally, free from window.location.href()! - jmb | 25 May 2026 | 09:11 |
 // there's also a brief explanation just in case I forgot how this works, because getEventInfo() checks live, the next click WILL change, it just might need a page load.
-// the previous line is by jmb | 25 May 2026 | 09:28 |
+// defer vs async, defer waits for page to load, async executes with page loading, especially important distinction for this script | 9:46
+// the previous 2 lines are by jmb | 25 May 2026 | 09:28 |
