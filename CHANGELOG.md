@@ -5,9 +5,9 @@
 
 # Main Changelog 
 
-25 May 2026 - major refactoring part 2
+25 May 2026 - major refactoring part 2, fixed and added eventbutton.js
 
-24 May 2026 - major refactoring and code cleanup
+24 May 2026 - major refactoring and code cleanup, cleanup of development code that is now obsolete with localhost integration into workflow, reorganize files
 
 21 May 2026 - fixed intro's image, but not updated it's content. will do soon.
 

@@ -5,13 +5,6 @@
 function experimentbutton() {
     window.location.href = "experiment.html";
 }
-/* event button, change every time:
-school - default event
-christmas - december (and or vacation during the "ber" months: September, October, November and December)
-wait this can be done with a function that tracks the date right? I.. I am not doing that, this is for a page and button I don't use anymore. - jmb | 24 May 2026 | 11:46 */
-function eventbutton() {
-    window.location.href = "christmas.html";
-}
 // Go to intro.html, duh! But please this is not good can someone change this? - jmb 21 April 2023
 function introbutton() {
     window.location.href = "intro.html";
