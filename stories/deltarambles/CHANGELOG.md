@@ -6,7 +6,11 @@ Happy April Fools! (and Holy Week of Roman Catholic Chritianity!)
 
 Happy Honkai: Star Rail Anniversary! (April 26!)
 
-## 2.5.5 May 24, 2026 — ???
+## 2.5.6 May 27, 2026 — ???
+
+— deltarambles chapter 8 season 3 release!!!
+
+## 2.5.5 May 24, 2026 — May 26, 2026
 
 — cleanup of development code that is now obsolete with localhost integration into workflow, reorganize files
 
