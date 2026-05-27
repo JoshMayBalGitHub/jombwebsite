@@ -8,7 +8,7 @@ Happy Honkai: Star Rail Anniversary! (April 26!)
 
 ## 2.5.6 May 27, 2026 — ???
 
-— deltarambles chapter 8 season 3 release!!!
+— deltarambles chapter 8 season 3 release!!! (also added emojis lol)
 
 ## 2.5.5 May 24, 2026 — May 26, 2026
 
