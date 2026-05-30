@@ -1,0 +1,699 @@
+/*TODO: Feature request for dark and light mode. I dunno if I wanna do that yet, but I'll do it if someone asks. - jmb | 24 May 2026 | 12:35 */
+/*TODO: CSS File is a draft*/
+/*/////////////////*/
+/*High Level Styling*/
+/*/////////////////*/
+
+html {
+    scroll-behavior: smooth;
+}
+a {
+    text-decoration: none;
+    color: green;
+}
+#main {
+  background: #cfb14e;
+  list-style-position:inside;
+}
+
+.main-center {
+  text-align: center;
+}
+/*/////////////////*/
+/*Nav Button Code*/
+/*/////////////////*/
+.Buttons {
+    transition-duration: 0.4s;
+    opacity: 0.5;
+    padding: 15px 37px;
+    font-size: x-large;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+}
+
+.Buttons::after {
+    content: " >>";
+    position: absolute;
+    opacity: 0;
+    transition: 0.5s;
+    top: -5;
+    right: -6px;
+}
+
+button:hover .Buttons {
+    opacity: 1;
+    padding-right: 32px;
+}
+
+button:hover .Buttons::after {
+    opacity: 1;
+    right: 0;
+}
+/*/////////////////
+Miscellaneous Custom Styling
+//////////////////*/
+
+.button-sty-DC {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+/*/////////////////
+Link Navigator! (temporary)
+//////////////////*/
+/* ---------- CATEGORY GRID ---------- */
+.link-categories {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;      /* centres the whole group */
+  gap: 2em;                     /* space between boxes */
+  padding: 1em 1em;
+}
+
+/* Each category box – auto‑sizes to content */
+.link-navigator {
+  border: 2px solid #be0140;
+  border-radius: 8px;
+  padding: 1.5em 2em;
+  background: #6b0549;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  text-align: center;
+
+  /* Let the box shrink/grow naturally, but never too wide */
+  flex: 0 1 auto;
+  width: fit-content;
+  max-width: 400px;             /* optional cap – prevents very wide boxes */
+  min-width: 220px;             /* ensures boxes don’t become too narrow */
+}
+
+/* Heading – left‑aligned inside the box */
+.link-navigator h1 {
+  text-align: left;
+  margin: 0 0 1em 0;
+  font-size: 1.4rem;
+  color: #f700ff;
+}
+
+/*Link Navigator*/
+.link-navigator .BSE {
+    display: block;
+    color: #67c7ff;
+    margin-bottom: 0.6em;
+    padding: 15px 37px;
+    font-size: x-large;
+    cursor: pointer;
+    position: relative;
+    transition-duration: 0.4s;
+}
+
+/*/////////////////
+Site Title
+//////////////////*/
+.site-header {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;              /* stacks on narrow screens */
+  gap: 1.2em;
+  background: #6b0549;
+  border-bottom: 1px solid #4b0433;
+  min-height: 60px;
+  z-index: 1000;
+  position: relative;
+  box-sizing: border-box;
+  padding: 0.8em 1.2em;
+  margin-bottom: 1.5em;
+}
+
+.site-title {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #f700ff;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.site-title:hover {
+  color: #f94fff;
+}
+
+/*/////////////////
+Navigation Bar - so many multi-level flexes!
+//////////////////*/
+.header-nav {
+  display: flex;
+  flex-wrap: wrap;          /* allow items to flow onto next line, wrapping individually */
+  gap: 0.5em;
+  align-items: center;
+}
+/* Each dropdown container is positioned relative for the child list */
+.nav-dropdown {
+  position: relative;
+}
+
+/* Top-level dropdown containers */
+.nav-dropdown {
+  position: relative;
+}
+
+.nav-dropdown-title {
+  display: inline-block;
+  padding: 0.5em 0.8em;
+  color: #67c7ff;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.95rem;
+  border-radius: 4px;
+  transition: background 0.2s, color 0.2s;
+}
+
+.nav-dropdown-title:hover {
+  background: #e8f0fe;
+  color: #005b72;
+}
+
+/* All dropdown lists – hidden by default */
+.nav-dropdown-list {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  min-width: 180px;
+  background: #6d0202;
+  border: 1px solid #ff8c78;
+  border-radius: 0 0 6px 6px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  list-style: none;
+  padding: 0.4em 0;
+  margin: 0;
+  z-index: 1100;
+}
+
+/* Nested lists – positioned to the right of the parent item */
+.nav-dropdown-list .nav-dropdown-list {
+  top: -1px;                 /* align with parent border */
+  left: 100%;
+  margin-left: 0;
+  border-radius: 6px;
+}
+
+/* Show first-level dropdown on hover of .nav-dropdown */
+.nav-dropdown:hover > .nav-dropdown-list,
+.nav-dropdown:focus-within > .nav-dropdown-list {
+  display: block;
+}
+
+/* Show deeper levels on hover of the parent <li> */
+li.has-submenu {
+  position: relative;
+}
+
+li.has-submenu:hover > .nav-dropdown-list,
+li.has-submenu:focus-within > .nav-dropdown-list {
+  display: block;
+}
+
+/* Invisible bridge to prevent hover gap (first level) */
+.nav-dropdown > .nav-dropdown-list::before {
+  content: '';
+  position: absolute;
+  top: -10px;
+  left: 0;
+  width: 100%;
+  height: 10px;
+  /*Debug box: background: rgba(255,0,0,0.2);*/
+}
+
+/* Bridge for nested levels (extends leftwards to the parent <li>) */
+li.has-submenu > .nav-dropdown-list::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -10px;
+  width: 10px;
+  height: 100%;
+  /*Debug box: background: rgba(255,0,0,0.2);*/
+}
+
+/* List items */
+.nav-dropdown-list li {
+  position: relative;  /* needed for nested positioning */
+  margin: 0;
+}
+
+.nav-dropdown-list a {
+  display: block;
+  padding: 0.5em 1.2em;
+  color: #ffe190;
+  text-decoration: none;
+  font-size: 0.9rem;
+  white-space: nowrap;
+  transition: background 0.15s;
+}
+
+.nav-dropdown-list a:hover {
+  background: #751010;
+  color: #d0ff00;
+}
+
+/*/////////////////
+Search Box & Results
+//////////////////*/
+/* The search wrapper inside the header */
+.header-search {
+  position: relative;
+  width: 100%;
+  max-width: 200px;
+  margin-left: auto;
+}
+
+.header-search #wikiSearch {
+  width: 100%;
+  padding: 0.5em 0.8em;
+  font-size: 0.95rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  outline: none;
+  box-sizing: border-box;
+}
+
+.header-search #wikiSearch:focus {
+  border-color: #4a90d9;
+  box-shadow: 0 0 0 3px rgba(74,144,217,0.15);
+}
+
+.header-search #searchResults {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  max-height: 300px;
+  overflow-y: auto;
+  background: #ff8686;
+  border: 1px solid #6d0202;
+  border-top: none;
+  border-radius: 0 0 6px 6px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  z-index: 1000;
+  box-sizing: border-box;
+}
+
+.header-search #searchResults a {
+  display: block;
+  padding: 0.6em 1em;
+  color: #333;
+  text-decoration: none;
+  border-bottom: 1px solid #ff8686;
+  font-size: 0.9rem;
+}
+
+.header-search #searchResults a:hover {
+  background: #c45f5f;
+}
+
+.header-search .no-results {
+  padding: 0.8em 1em;
+  color: #793f3f;
+  font-style: italic;
+}
+
+/* Hide results when empty */
+.header-search #searchResults:empty {
+  display: none;
+}
+
+/*/////////////////
+Wiki Content / Layout
+//////////////////*/
+.wiki-layout {
+  display: flex;
+  align-items: flex-start;      /* align tops */
+  gap: 1.5em;                     /* <-- the space between sidebar and content */
+  padding: 0em 0.2em;           /* breathing room on left/right */
+  overflow-x: hidden;          /* clip anything that tries to break out */
+  overflow-wrap: break-word;   /* break long words/URLs */
+  word-break: break-word;      /* break when necessary */
+  hyphens: auto;               /* optional: nicer line breaks */
+}
+
+.wiki-content {
+  flex: 1;
+  padding: 0 2em 2em 0;          /* right padding keeps content from touching viewport edge */
+  min-width: 0;                   /* prevents overflow */
+  overflow-y: auto;
+}
+
+* Make sure all block elements inside wiki-content obey the width */
+.wiki-content img,
+.wiki-content video,
+.wiki-content table,
+.wiki-content pre,
+.wiki-content figure {
+  max-width: 100%;
+  height: auto;
+}
+
+.wiki-content h4, h5, h6 {
+  font-size: 1.17rem;
+}
+
+
+/*/////////////////
+Table of Contents
+//////////////////*/
+
+/* ---------- DESKTOP TOC ---------- */
+.toc-sidebar {
+  flex: 0 0 200px;                /* narrower sidebar */
+  margin-left: 0.4em;             /* small gap from left viewport edge */
+  position: sticky;
+  top: var(--header-height, 60px);
+  /* No forced height – let content decide */
+  max-height: calc(100vh - var(--header-height, 60px) - 3em);   /* leaves space at bottom */
+  overflow-y: auto;
+  background: #f4f5f7;
+  border-right: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 2px 0 6px rgba(0,0,0,0.05);
+  padding: 1em;
+  margin-bottom: 2em;                  /* optional extra breathing room */
+  box-sizing: border-box;
+
+  /* NEW – subtle right border for visual separation */
+  border-right: 1px solid #e0e0e0;
+  /* Optional: a very light box-shadow to lift it off the background */
+  box-shadow: 2px 0 8px rgba(0,0,0,0.03);
+}
+
+.toc-container strong {
+  display: block;
+  margin-bottom: 0.8em;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #666;
+}
+
+#toc-list ul {
+  list-style: none;
+  padding-left: 1em;
+  margin: 0.3em 0;
+}
+
+#toc-list a {
+  color: #2c3e50;
+  text-decoration: none;
+  display: block;
+  padding: 0.15em 0;
+  border-left: 2px solid transparent;
+  transition: border-color 0.2s, color 0.2s;
+  padding-left: 0.5em;
+}
+
+#toc-list a:hover,
+#toc-list a.active {
+  border-left-color: #4a90d9;
+  color: #4a90d9;
+}
+
+/*/////////////////
+Infobox
+//////////////////*/
+.infobox {
+  float: right;
+  width: 400px;
+  background: #f8f9fa;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 0.8em;
+  margin: 0 0 1.5em 1.5em;   /* space below and to the left */
+  font-size: 0.9rem;
+  line-height: 1.5;
+  border-collapse: collapse;
+}
+
+/* ---------- FLOATING FIGURE (right) ---------- */
+.figure-right {
+  float: right;
+  margin: 0 0 1.2em 1.5em;   /* space below and left */
+  max-width: 20%;            /* never wider than 40% of the content column */
+  /* optional: a subtle border or background */
+}
+
+.figure-right img {
+  display: block;
+  width: 260px;
+  height: auto;
+  margin: auto;
+  border-radius: 4px;
+}
+
+.figure-right figcaption {
+  font-size: 0.9rem;
+  color: #555;
+  margin-top: 0.4em;
+  text-align: center;
+}
+
+/* Clear helper – use after the wrapped paragraph */
+.clear-float {
+  clear: both;
+  /* You can style this as a zero‑height div */
+  margin: 0;
+  padding: 0;
+}
+
+
+.infobox th {
+  background: #e0e0e0;
+  text-align: center;
+  font-size: 1.1rem;
+  padding: 0.5em;
+}
+
+.infobox td {
+  padding: 0.4em 0.5em;
+  vertical-align: top;
+}
+
+.infobox td:first-child {
+  font-weight: bold;
+  width: 50%;
+}
+
+.infobox img {
+  display: block;
+  border-radius: 4px;
+}
+
+/*/////////////////
+Special Mobile Privileges
+//////////////////*/
+/*Desktop Defaults*/
+.search-toggle-btn {
+  display: none;
+}
+
+.toc-toggle-btn {
+  display: none;
+}
+
+.toc-backdrop {
+  display: none;
+}
+/*Mobile View is (max-width: 768px) */
+@media (max-width: 768px) {
+
+  /* ---------- 1. FIX HEADER SPACING ---------- */
+  .site-header {
+    justify-content: space-between;   /* title left, search right */
+    flex-wrap: nowrap;                /* keep everything on one row */
+  }
+
+  .header-nav {
+    display: none !important;         /* completely remove from flow */
+  }
+
+/* Collapse the search container to auto width */
+/* ---------- SMART SEARCH TOGGLE ---------- */
+.header-search {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.search-toggle-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  border: none;
+  font-size: 1.5rem;
+  padding: 0.3em;
+  cursor: pointer;
+  color: #2c3e50;
+  transition: opacity 0.2s;
+}
+
+/* Hide icon when search is expanded */
+.header-search.search-expanded .search-toggle-btn {
+  display: none;
+}
+
+/* Input is hidden by default */
+.header-search input#wikiSearch {
+  display: none;
+  width: 0;
+  transition: width 0.2s ease;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 0.5em;
+}
+
+/* When expanded, show input and set width */
+.header-search.search-expanded input#wikiSearch {
+  display: inline-block;
+  width: 150px;
+}
+
+/* ---------- SEARCH OVERLAY ON TITLE ---------- */
+/* When search is active, hide the title */
+.site-header.search-active .site-title {
+  display: none;
+}
+
+/* Let the search container grow to fill the space */
+.site-header.search-active .header-search {
+  flex: 1;
+}
+
+/* The search input itself expands to full width */
+.site-header.search-active .header-search input#wikiSearch {
+  width: 100%;
+  box-sizing: border-box;
+}
+  /* Toggle button – floating icon */
+  .toc-toggle-btn {
+    position: fixed;
+    top: var(--header-height, 60px);
+    left: 1em;
+    z-index: 2100;
+    background: #4a90d9;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 48px;
+    height: 48px;
+    font-size: 1.4rem;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: top 0.3s ease; 
+  }
+
+  /* When header is scrolled away, move button up */
+  body.header-scrolled .toc-toggle-btn {
+    top: 0.5em;                         /* nice snug top-left corner */
+ }
+
+  /* ---------- 4. TOC SIDEBAR (slide in with backdrop) ---------- */
+  /* ---------- COMPACT MOBILE TOC PANEL ---------- */
+  .toc-sidebar {
+    position: fixed;
+    top: var(--header-height, 60px);
+    left: -999px;
+    /* width: 260px; Too big for mobile */
+    max-height: 70vh;                 /* never taller than 70% of screen */
+    height: auto;                     /* size to content */
+    overflow-y: auto;
+    transition: left 0.3s ease;
+    z-index: 2000;
+    background: #f4f5f7;
+    box-shadow: 2px 0 12px rgba(0,0,0,0.15);
+    border-right: 1px solid #ddd;
+    border-radius: 2px 2px 8px 2px;        /* soft corner at bottom-right */
+    padding: 1em 0.8em;               /* tighter padding */
+    transition: top 0.3s ease; 
+    }
+
+  /* Push ToC content down when visible, clear the toggle button */
+  .toc-sidebar.toc-visible {
+    top: calc(var(--header-height, 60px) + 50px);   /* header height + button height + gap */
+    left: 0;
+  }
+
+  /* When header is scrolled away, move ToC up */
+  body.header-scrolled .toc-sidebar {
+    top: 4em;
+  }
+
+  /* ToC list styles – increase tap targets */
+  #toc-list ul {
+    padding: 0;
+    margin: 0;
+    }
+
+  #toc-list a {
+    display: block;
+    padding: 0.7em 0.8em;            /* generous tap area */
+    font-size: 0.9rem;
+    line-height: 1.3;
+    color: #2c3e50;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background 0.15s;
+    }
+
+    #toc-list a:hover,
+    #toc-list a:active {
+    background: #e0e8f0;
+    }
+
+  /* Backdrop overlay (created by JS) */
+  .toc-backdrop {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.3);
+    z-index: 1999;
+  }
+
+  .toc-backdrop.visible {
+    display: block;
+  }
+
+  /* ---------- 5. CONTENT & INFOBOX SPACING ---------- */
+  .wiki-content {
+    width: 100%;
+    max-width: 100%;
+    padding: 0em 0em;               /* no padding */
+    margin: 0;
+    overflow-x: hidden;
+    word-break: break-word;
+  }
+
+  .infobox {
+    float: none;
+    width: 100%;
+    margin: 0 0 0.5em 0;
+  }
+
+  .figure-right {
+    float: none;
+    max-width: 100%;
+    margin: 0 0 1.2em 0;
+  }
+
+  .wiki-content img,
+  .wiki-content table,
+  .wiki-content pre,
+  .wiki-content video {
+    max-width: 100%;
+    height: auto;
+  }
+}

@@ -16,6 +16,16 @@ a {
 /*/////////////////*/
 /*Button Code*/
 /*/////////////////*/
+button {
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(79, 70, 229, 0.3);
+    transition: background 0.3s ease;
+}
+
+button:hover {
+    background: #e0ffbd;
+}
 .Buttons {
     transition-duration: 0.4s;
     opacity: 0.5;
@@ -45,6 +55,18 @@ button:hover .Buttons::after {
     opacity: 1;
     right: 0;
 }
+
+.info-text {
+    font-size: 1rem;
+    color: #0300ad;
+    font-weight: 500;
+    margin-top: 8px;
+}
+.info-text span {
+    color: #1b0094;
+    font-weight: 700;
+}
+
 /*/////////////////
 Link Navigator
 /////////////////*/
@@ -91,7 +113,7 @@ Hidden Texts of Index
 /*/////////////////
 INTRO SECTION
 /////////////////*/
-#img-joshua {
+#img-name {
     width:700px; 
     height:200px;
 }
