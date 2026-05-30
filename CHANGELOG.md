@@ -1,6 +1,6 @@
 # Changelogs:
-### [DeltaRambles Changelog](stories/deltarambles/CHANGELOG.md)
-### [DeltaRambles Changelog](stories/deltarambles/wiki/CHANGELOG.md)
+### [DeltaRambles: The Dark Pearl's Story Changelog](stories/deltarambles/CHANGELOG.md)
+### [DeltaRambles: The Delta Archives Wiki Changelog](stories/deltarambles/wiki/CHANGELOG.md)
 
 ---
 
