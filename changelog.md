@@ -31,6 +31,9 @@ buy her own domain, and do automatic backups.
 
 See ya in the future~!
 
+Edit 1: VICTORY!!!!!!! I HAVE GOTTEN THE ORIGINAL HISTORY BACK!!!!!!! I merged the two 'unrelated histories' according to git, through using gitlab's.. references, which,
+after this, is a blessing, I AM BEING SAVED BY REMOTE GIT WEBSITES, this is embarassing but also, so needed. Anywho, lesson learned.
+
 — jmb~ | 30 May 2026 | 22:59 |
 
 ---
