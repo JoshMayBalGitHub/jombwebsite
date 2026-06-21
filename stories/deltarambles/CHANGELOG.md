@@ -1,12 +1,22 @@
 # DeltaRambles: "Version Update"
 
-## 2.5.x April 01, 2026 — ??? "The Foreboding Waves of the Future"
+## 2.6.x June 22, 2026 — ??? "The High-Rise Buildings of Capital"
+
+## 2.6.0 June 22, 2026 — ???
+
+— Until the End Cometh - An S4 Prelude
+
+— C9S3 Draft is ongoing, and is about 5,672 words in
+
+— A little progress issue, is happening, more will be explained on the next director's commentary
+
+## 2.5.x April 01, 2026 — June 21, 2026 "The Foreboding Waves of the Future"
 
 Happy April Fools! (and Holy Week of Roman Catholic Chritianity!)
 
 Happy Honkai: Star Rail Anniversary! (April 26!)
 
-## 2.5.6 May 27, 2026 — ???
+## 2.5.6 May 27, 2026 — June 21, 2026
 
 — deltarambles chapter 8 season 3 release!!! (also added emojis lol)
 
