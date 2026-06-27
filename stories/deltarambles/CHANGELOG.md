@@ -4,6 +4,8 @@
 
 ## 2.6.0 June 22, 2026 — ???
 
+— bugfixes in SSDR-S3 and SSDR-DC
+
 — Until the End Cometh - An S4 Prelude
 
 — C9S3 Draft is ongoing, and is about 5,672 words in
