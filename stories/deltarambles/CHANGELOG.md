@@ -2,7 +2,11 @@
 
 ## 2.6.x June 22, 2026 — ??? "The High-Rise Buildings of Capital"
 
-## 2.6.0 June 22, 2026 — ???
+## 2.6.1 June 30, 2026 — ???
+
+— DeltaRambles DC: June's Back to School and Scatterbrain Writing june devlog!!!
+
+## 2.6.0 June 22, 2026 — June 29, 2026
 
 — bugfixes in SSDR-S3 and SSDR-DC
 
