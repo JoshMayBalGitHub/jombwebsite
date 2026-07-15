@@ -6,6 +6,8 @@
 
 # Main Changelog 
 
+16 July 2026 - changed name to JoMayBalloon
+
 30 June 2026 - moved history to separate markdown file
 
 25 May 2026 - major refactoring part 2, fixed and added eventbutton.js

@@ -4,6 +4,8 @@
 
 ## 2.6.1 June 30, 2026 — ???
 
+— fix small metapsilon bugs and added footnote support in custom md-block.js
+
 — DeltaRambles DC: June's Back to School and Scatterbrain Writing june devlog!!!
 
 ## 2.6.0 June 22, 2026 — June 29, 2026

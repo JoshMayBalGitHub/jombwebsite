@@ -9,7 +9,7 @@ Also my own website duh, I keep my personal web related stuff here. Stylized JoM
 ## Why JoMB?
 Great Question! Because I like programming and this is one of many endeavours. 
 
-Also the name is **J**osh**M**ay**B**alloon Website so, I am that uncreative.
+Also the name is **J**o**M**ay**B**alloon Website so, I am that uncreative.
 
 ---
 
