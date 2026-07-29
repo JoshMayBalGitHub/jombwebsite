@@ -2,7 +2,15 @@
 
 ## 2.6.x June 22, 2026 — ??? "The High-Rise Buildings of Capital"
 
-## 2.6.1 June 30, 2026 — ???
+## 2.6.2 July 30, 2026 — ???
+
+— july devlog! i... it's something very personal and little story, so.. uh, yeah.
+
+— season 3 edits and additions to chapter 9 season 3
+
+— season 4 drafts in spinoff page
+
+## 2.6.1 June 30, 2026 — July 29, 2026
 
 — fix small metapsilon bugs and added footnote support in custom md-block.js
 
