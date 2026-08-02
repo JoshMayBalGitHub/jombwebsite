@@ -10,6 +10,8 @@
 
 — season 4 drafts in spinoff page
 
+— re-added bonus scenes in v2 (abyssal reflections), barebones right now
+
 ## 2.6.1 June 30, 2026 — July 29, 2026
 
 — fix small metapsilon bugs and added footnote support in custom md-block.js
