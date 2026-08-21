@@ -2,7 +2,11 @@
 
 ## 2.6.x June 22, 2026 — ??? "The High-Rise Buildings of Capital"
 
-## 2.6.2 July 30, 2026 — ???
+## 2.6.3 August 22, 2026 — ???
+
+— cproposals idea 15 focusing on jomi and soviet democracy
+
+## 2.6.2 July 30, 2026 — August 21, 2026
 
 — july devlog! i... it's something very personal and little story, so.. uh, yeah.
 
