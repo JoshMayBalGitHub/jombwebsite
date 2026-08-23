@@ -4,7 +4,9 @@
 
 ## 2.6.3 August 22, 2026 — ???
 
-— cproposals idea 15 focusing on jomi and soviet democracy
+— cproposals idea 15 focusing on jomi and soviet democracy + new reflections related to it
+
+— august devlog about why chapter 9 / 10 and season 3 hasn't been released yet
 
 ## 2.6.2 July 30, 2026 — August 21, 2026
 
