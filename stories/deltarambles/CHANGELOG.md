@@ -2,7 +2,17 @@
 
 ## 2.6.x June 22, 2026 — ??? "The High-Rise Buildings of Capital"
 
-## 2.6.3 August 22, 2026 — ???
+September 10 and 11, the Kirkening (Charlie Kirk) and Allende in Chile. Oh, and the twin towers too I guess.
+
+My birthday~! 🎂🎉🎊🎁🍰🎈👑 (September 07)! 
+
+## 2.6.4 September 12, 2026 — ???
+
+— Separated old season 4 drafts from main spinoffs into metapsilon archives (unfinished, and outdated)
+
+— new s4 draft chapter focusing on what emotional development and issues Mijo should have! (separate page too)
+
+## 2.6.3 August 22, 2026 — September 11, 2026
 
 — cproposals idea 15 focusing on jomi and soviet democracy + new reflections related to it
 
