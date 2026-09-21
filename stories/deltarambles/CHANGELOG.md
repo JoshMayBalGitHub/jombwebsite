@@ -2,11 +2,21 @@
 
 ## 2.6.x June 22, 2026 — ??? "The High-Rise Buildings of Capital"
 
+Monika from Doki Doki Literature Club's Birthday (September 22)!!
+
+September 21 / 23 1971: Proclamation No. 1081 remembrance, no to Martial Law!
+
 September 10 and 11, the Kirkening (Charlie Kirk) and Allende in Chile. Oh, and the twin towers too I guess.
 
 My birthday~! 🎂🎉🎊🎁🍰🎈👑 (September 07)! 
 
-## 2.6.4 September 12, 2026 — ???
+## 2.6.5 September 22, 2026 — ???
+
+— C9S3: RISE HERO IGNITE THAT PRIMAL SUN IS RELEASED!!!!! ENJOY!! (has a cliffhanger, will explain 'soon')
+
+— Giovinezza, Primavera Di Belleza, a (somewhat) DeltaRambles spinoff has released!
+
+## 2.6.4 September 12, 2026 — September 21, 2026
 
 — Separated old season 4 drafts from main spinoffs into metapsilon archives (unfinished, and outdated)
 
