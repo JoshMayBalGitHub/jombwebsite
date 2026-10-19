@@ -10,7 +10,15 @@ September 10 and 11, the Kirkening (Charlie Kirk) and Allende in Chile. Oh, and 
 
 My birthday~! 🎂🎉🎊🎁🍰🎈👑 (September 07)! 
 
-## 2.6.5 September 22, 2026 — ???
+## 2.6.6 October 20, 2026 — ???
+
+— small cproposals edits
+
+— release of c2s4 draft titled 'deteriorating, yet persisting'!
+
+— I swear the september-october pre-halloween devlog is coming
+
+## 2.6.5 September 22, 2026 — October 19, 2026
 
 — C9S3: RISE HERO IGNITE THAT PRIMAL SUN IS RELEASED!!!!! ENJOY!! (has a cliffhanger, will explain 'soon')
 
