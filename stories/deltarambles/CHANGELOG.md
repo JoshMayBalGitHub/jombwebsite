@@ -20,6 +20,8 @@ My birthday~! 🎂🎉🎊🎁🍰🎈👑 (September 07)!
 
 — september-october pre-halloween devlog released!!!! + other bugfix
 
+— s4 draft 'just words' released!
+
 ## 2.6.5 September 22, 2026 — October 19, 2026
 
 — C9S3: RISE HERO IGNITE THAT PRIMAL SUN IS RELEASED!!!!! ENJOY!! (has a cliffhanger, will explain 'soon')
