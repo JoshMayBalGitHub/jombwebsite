@@ -2,15 +2,25 @@
 
 ## 2.6.x June 22, 2026 — ??? "The High-Rise Buildings of Capital"
 
+Happy Birthday to Urda (Canon Birthday, Oct. 28) and Ascilla (Nov. 01 / March 07)!
+
+Happy Halloween! (October 31 to November 02)🕯️👻🎃👻🕯️
+
 Monika from Doki Doki Literature Club's Birthday (September 22)!!
 
 September 21 / 23 1971: Proclamation No. 1081 remembrance, no to Martial Law!
 
 September 10 and 11, the Kirkening (Charlie Kirk) and Allende in Chile. Oh, and the twin towers too I guess.
 
+Also Mijo's Birthday during September 07 and 11 for Princess Jomi! I'll make a calendar of this soon
+
 My birthday~! 🎂🎉🎊🎁🍰🎈👑 (September 07)! 
 
-## 2.6.6 October 20, 2026 — ???
+## 2.6.7 November 02, 2026 — ???
+
+— october halloween devlog released!! in nov 2, but its barely a dent so a nov devlog is coming in that time as scheduled
+
+## 2.6.6 October 20, 2026 — November 01, 2026
 
 — small cproposals edits
 
