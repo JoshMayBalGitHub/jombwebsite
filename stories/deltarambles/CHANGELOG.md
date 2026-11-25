@@ -16,7 +16,11 @@ Also Mijo's Birthday during September 07 and 11 for Princess Jomi! I'll make a c
 
 My birthday~! 🎂🎉🎊🎁🍰🎈👑 (September 07)! 
 
-## 2.6.7 November 02, 2026 — ???
+## 2.6.8 November 25, 2026 — ???
+
+— added three ideas: marella s4 idea, von mayer new characters and example videogame dialogue options
+
+## 2.6.7 November 02, 2026 — November 24, 2026
 
 — october halloween devlog released!! in nov 2, but its barely a dent so a nov devlog is coming in that time as scheduled
 
